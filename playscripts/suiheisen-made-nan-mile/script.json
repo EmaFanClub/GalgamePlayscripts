@@ -1,0 +1,4997 @@
+{
+  "schema_version": "1.0.0",
+  "metadata": {
+    "title": "水平線まで何マイル？",
+    "full_name": "Suiheisen made Nan Mile? - Deep Blue Sky & Pure White Wings",
+    "language": "zh-CN",
+    "source_url": "https://raw.githubusercontent.com/m-rui001/galgame-script-corpus/main/Zh/%E6%B0%B4%E5%B9%B3%E7%B7%9A%E3%81%BE%E3%81%A7%E4%BD%95%E3%83%9E%E3%82%A4%E3%83%AB%EF%BC%9F%20-%20Deep%20Blue%20Sky%20%EF%BC%86%20Pure%20White%20Wings%20%5B%E4%B8%AD%E6%96%87%5D.txt",
+    "scene_count": 1,
+    "line_count": 620,
+    "character_list": [
+      "就算说是",
+      "明明空太你唯独不懂"
+    ],
+    "stats": {
+      "dialogue_count": 152,
+      "monologue_count": 0,
+      "narration_count": 468,
+      "choice_count": 0,
+      "transition_count": 0
+    }
+  },
+  "scenes": [
+    {
+      "scene_id": "scene_001",
+      "title": "水平線まで何マイル？",
+      "setting_time": "",
+      "order": 1,
+      "line_count": 620,
+      "characters": [
+        "就算说是",
+        "明明空太你唯独不懂"
+      ],
+      "lines": [
+        {
+          "index": 1,
+          "global_index": 1,
+          "type": "narration",
+          "speaker": null,
+          "text": "﻿祭典过后就有一个残酷的现实在等待着我们。",
+          "raw": "﻿祭典过后就有一个残酷的现实在等待着我们。"
+        },
+        {
+          "index": 2,
+          "global_index": 2,
+          "type": "narration",
+          "speaker": null,
+          "text": "我们正面对着已经变成了遗骸的机体。",
+          "raw": "我们正面对着已经变成了遗骸的机体。"
+        },
+        {
+          "index": 3,
+          "global_index": 3,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 4,
+          "global_index": 4,
+          "type": "narration",
+          "speaker": null,
+          "text": "「这算是……名誉负伤吧。",
+          "raw": "「这算是……名誉负伤吧。"
+        },
+        {
+          "index": 5,
+          "global_index": 5,
+          "type": "narration",
+          "speaker": null,
+          "text": "好想给它发勋章啊」",
+          "raw": "好想给它发勋章啊」"
+        },
+        {
+          "index": 6,
+          "global_index": 6,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 7,
+          "global_index": 7,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "如果给它发勋章先生的话，是不是就能起来了呢？",
+          "raw": "「如果给它发勋章先生的话，是不是就能起来了呢？」"
+        },
+        {
+          "index": 8,
+          "global_index": 8,
+          "type": "narration",
+          "speaker": null,
+          "text": "小湖景对勋章都用上了「先生」让人感觉非常地可爱，但严酷的现实仍对我们步步紧逼。",
+          "raw": "小湖景对勋章都用上了「先生」让人感觉非常地可爱，但严酷的现实仍对我们步步紧逼。"
+        },
+        {
+          "index": 9,
+          "global_index": 9,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 10,
+          "global_index": 10,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "非要说的话，如果不发生神秘行星突然爆炸并出强烈放射线，或者所有人都团结一致地在超市里固守这种级别的事情，这机体估计都是起不来了",
+          "raw": "「非要说的话，如果不发生神秘行星突然爆炸并出强烈放射线，或者所有人都团结一致地在超市里固守这种级别的事情，这机体估计都是起不来了」"
+        },
+        {
+          "index": 11,
+          "global_index": 11,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 12,
+          "global_index": 12,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "不过啊，空君。续集开头的超新星爆发是在日本上映的时候加上去的，原作并没有哦～",
+          "raw": "「不过啊，空君。续集开头的超新星爆发是在日本上映的时候加上去的，原作并没有哦～」"
+        },
+        {
+          "index": 13,
+          "global_index": 13,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 14,
+          "global_index": 14,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……会长你为啥会知道那么多非狂热粉丝都不会知道的梗啊",
+          "raw": "「……会长你为啥会知道那么多非狂热粉丝都不会知道的梗啊」"
+        },
+        {
+          "index": 15,
+          "global_index": 15,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 16,
+          "global_index": 16,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "呵呵，因为女生本来就有很多秘密嘛～",
+          "raw": "「呵呵，因为女生本来就有很多秘密嘛～」"
+        },
+        {
+          "index": 17,
+          "global_index": 17,
+          "type": "narration",
+          "speaker": null,
+          "text": "还真是没办法轻视这个人。",
+          "raw": "还真是没办法轻视这个人。"
+        },
+        {
+          "index": 18,
+          "global_index": 18,
+          "type": "narration",
+          "speaker": null,
+          "text": "明明暑气还是让人热得出汗，从我们脸上吹过的却都是寂寥的风。",
+          "raw": "明明暑气还是让人热得出汗，从我们脸上吹过的却都是寂寥的风。"
+        },
+        {
+          "index": 19,
+          "global_index": 19,
+          "type": "narration",
+          "speaker": null,
+          "text": "我抱着双臂叹了口气，试着从上看从下看，再用力眨眨眼。",
+          "raw": "我抱着双臂叹了口气，试着从上看从下看，再用力眨眨眼。"
+        },
+        {
+          "index": 20,
+          "global_index": 20,
+          "type": "narration",
+          "speaker": null,
+          "text": "可现实还是毫无变化地阻碍在我们面前。",
+          "raw": "可现实还是毫无变化地阻碍在我们面前。"
+        },
+        {
+          "index": 21,
+          "global_index": 21,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 22,
+          "global_index": 22,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "如果说这是一场90分钟的电影的话……",
+          "raw": "「如果说这是一场90分钟的电影的话……」"
+        },
+        {
+          "index": 23,
+          "global_index": 23,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 24,
+          "global_index": 24,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "的话？",
+          "raw": "「的话？」"
+        },
+        {
+          "index": 25,
+          "global_index": 25,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 26,
+          "global_index": 26,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "我觉得应该就到了立下救济的flag，然后被人施以援手的时候了",
+          "raw": "「我觉得应该就到了立下救济的flag，然后被人施以援手的时候了」"
+        },
+        {
+          "index": 27,
+          "global_index": 27,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 28,
+          "global_index": 28,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "与其向神祈祷还不如拼命努力！",
+          "raw": "「与其向神祈祷还不如拼命努力！」"
+        },
+        {
+          "index": 29,
+          "global_index": 29,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 30,
+          "global_index": 30,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "不过当然也要考虑一下努力的内容对吧",
+          "raw": "「不过当然也要考虑一下努力的内容对吧」"
+        },
+        {
+          "index": 31,
+          "global_index": 31,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 32,
+          "global_index": 32,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "…………啊～呜～",
+          "raw": "「…………啊～呜～」"
+        },
+        {
+          "index": 33,
+          "global_index": 33,
+          "type": "narration",
+          "speaker": null,
+          "text": "一直以来的体育系的精神头不知丢到哪里去了，她的回答没什么气势。",
+          "raw": "一直以来的体育系的精神头不知丢到哪里去了，她的回答没什么气势。"
+        },
+        {
+          "index": 34,
+          "global_index": 34,
+          "type": "narration",
+          "speaker": null,
+          "text": "我重整了一下心态，绕着机体转了一圈。",
+          "raw": "我重整了一下心态，绕着机体转了一圈。"
+        },
+        {
+          "index": 35,
+          "global_index": 35,
+          "type": "narration",
+          "speaker": null,
+          "text": "我们的翅膀残破地让人心碎，正如文字描述的是一对折断的扭曲的翅膀。",
+          "raw": "我们的翅膀残破地让人心碎，正如文字描述的是一对折断的扭曲的翅膀。"
+        },
+        {
+          "index": 36,
+          "global_index": 36,
+          "type": "narration",
+          "speaker": null,
+          "text": "这结局作为胜利的代价而言太让人伤心了。",
+          "raw": "这结局作为胜利的代价而言太让人伤心了。"
+        },
+        {
+          "index": 37,
+          "global_index": 37,
+          "type": "narration",
+          "speaker": null,
+          "text": "在它身上倾注的日日夜夜，一瞬间就成了这个样子。",
+          "raw": "在它身上倾注的日日夜夜，一瞬间就成了这个样子。"
+        },
+        {
+          "index": 38,
+          "global_index": 38,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 39,
+          "global_index": 39,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "不过啊，倒也不是无用功",
+          "raw": "「不过啊，倒也不是无用功」"
+        },
+        {
+          "index": 40,
+          "global_index": 40,
+          "type": "narration",
+          "speaker": null,
+          "text": "――所谓的无用功是指？",
+          "raw": "――所谓的无用功是指？"
+        },
+        {
+          "index": 41,
+          "global_index": 41,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 42,
+          "global_index": 42,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "为之努力的时间啊",
+          "raw": "「为之努力的时间啊」"
+        },
+        {
+          "index": 43,
+          "global_index": 43,
+          "type": "narration",
+          "speaker": null,
+          "text": "嗯，如果是这样就好了。",
+          "raw": "嗯，如果是这样就好了。"
+        },
+        {
+          "index": 44,
+          "global_index": 44,
+          "type": "narration",
+          "speaker": null,
+          "text": "话说，我的思考又一次被看穿了啊。",
+          "raw": "话说，我的思考又一次被看穿了啊。"
+        },
+        {
+          "index": 45,
+          "global_index": 45,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 46,
+          "global_index": 46,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "不过啊，都好不容易要到大赛了，这个情况还真是损士气啊。修好它要多久呢",
+          "raw": "「不过啊，都好不容易要到大赛了，这个情况还真是损士气啊。修好它要多久呢」"
+        },
+        {
+          "index": 47,
+          "global_index": 47,
+          "type": "narration",
+          "speaker": null,
+          "text": "【陽向/阳向】",
+          "raw": "【陽向/阳向】"
+        },
+        {
+          "index": 48,
+          "global_index": 48,
+          "type": "narration",
+          "speaker": null,
+          "text": "「还是不要想着把碎裂的碳板粘合起来继续用比较好。强度差别太大就派不上用场了。",
+          "raw": "「还是不要想着把碎裂的碳板粘合起来继续用比较好。强度差别太大就派不上用场了。"
+        },
+        {
+          "index": 49,
+          "global_index": 49,
+          "type": "narration",
+          "speaker": null,
+          "text": "也只能和零件一起换掉了」",
+          "raw": "也只能和零件一起换掉了」"
+        },
+        {
+          "index": 50,
+          "global_index": 50,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 51,
+          "global_index": 51,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "也就是说，修复无望吗……",
+          "raw": "「也就是说，修复无望吗……」"
+        },
+        {
+          "index": 52,
+          "global_index": 52,
+          "type": "narration",
+          "speaker": null,
+          "text": "毕竟坏掉的零件占绝大多数。",
+          "raw": "毕竟坏掉的零件占绝大多数。"
+        },
+        {
+          "index": 53,
+          "global_index": 53,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 54,
+          "global_index": 54,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "…………对不起",
+          "raw": "「…………对不起」"
+        },
+        {
+          "index": 55,
+          "global_index": 55,
+          "type": "narration",
+          "speaker": null,
+          "text": "朋夏耷拉着肩膀。",
+          "raw": "朋夏耷拉着肩膀。"
+        },
+        {
+          "index": 56,
+          "global_index": 56,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 57,
+          "global_index": 57,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "要是我再熟练一点的话……能应对那股侧风的话，不对，要是我再多练习一些就好了！",
+          "raw": "「要是我再熟练一点的话……能应对那股侧风的话，不对，要是我再多练习一些就好了！」"
+        },
+        {
+          "index": 58,
+          "global_index": 58,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 59,
+          "global_index": 59,
+          "type": "narration",
+          "speaker": null,
+          "text": "「打住！",
+          "raw": "「打住！"
+        },
+        {
+          "index": 60,
+          "global_index": 60,
+          "type": "narration",
+          "speaker": null,
+          "text": "别往下说了，朋夏」",
+          "raw": "别往下说了，朋夏」"
+        },
+        {
+          "index": 61,
+          "global_index": 61,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 62,
+          "global_index": 62,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "可是……",
+          "raw": "「可是……」"
+        },
+        {
+          "index": 63,
+          "global_index": 63,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 64,
+          "global_index": 64,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "那个，这并不是宫前学姐的责任啊",
+          "raw": "「那个，这并不是宫前学姐的责任啊」"
+        },
+        {
+          "index": 65,
+          "global_index": 65,
+          "type": "narration",
+          "speaker": null,
+          "text": "【陽向/阳向】",
+          "raw": "【陽向/阳向】"
+        },
+        {
+          "index": 66,
+          "global_index": 66,
+          "type": "narration",
+          "speaker": null,
+          "text": "「没错，说不定我们再造得好一点的话也就不会发生这种事了。",
+          "raw": "「没错，说不定我们再造得好一点的话也就不会发生这种事了。"
+        },
+        {
+          "index": 67,
+          "global_index": 67,
+          "type": "narration",
+          "speaker": null,
+          "text": "所以这是我们所有人的责任」",
+          "raw": "所以这是我们所有人的责任」"
+        },
+        {
+          "index": 68,
+          "global_index": 68,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 69,
+          "global_index": 69,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "可是――",
+          "raw": "「可是――」"
+        },
+        {
+          "index": 70,
+          "global_index": 70,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 71,
+          "global_index": 71,
+          "type": "narration",
+          "speaker": null,
+          "text": "「没什么可是的。",
+          "raw": "「没什么可是的。"
+        },
+        {
+          "index": 72,
+          "global_index": 72,
+          "type": "narration",
+          "speaker": null,
+          "text": "你负责飞，我们负责让你能起飞来。",
+          "raw": "你负责飞，我们负责让你能起飞来。"
+        },
+        {
+          "index": 73,
+          "global_index": 73,
+          "type": "narration",
+          "speaker": null,
+          "text": "成功和失败都是共同责任」",
+          "raw": "成功和失败都是共同责任」"
+        },
+        {
+          "index": 74,
+          "global_index": 74,
+          "type": "narration",
+          "speaker": null,
+          "text": "我轻轻敲了敲朋夏的脑袋。",
+          "raw": "我轻轻敲了敲朋夏的脑袋。"
+        },
+        {
+          "index": 75,
+          "global_index": 75,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 76,
+          "global_index": 76,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……啊、真好啊",
+          "raw": "「……啊、真好啊」"
+        },
+        {
+          "index": 77,
+          "global_index": 77,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 78,
+          "global_index": 78,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "空太……",
+          "raw": "「空太……」"
+        },
+        {
+          "index": 79,
+          "global_index": 79,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 80,
+          "global_index": 80,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "你啊，虽然是个体育系的人，不过对团队合作还了解得不够啊",
+          "raw": "「你啊，虽然是个体育系的人，不过对团队合作还了解得不够啊」"
+        },
+        {
+          "index": 81,
+          "global_index": 81,
+          "type": "narration",
+          "speaker": null,
+          "text": "我再拍了拍她后背。",
+          "raw": "我再拍了拍她后背。"
+        },
+        {
+          "index": 82,
+          "global_index": 82,
+          "type": "narration",
+          "speaker": null,
+          "text": "给她注入能量。",
+          "raw": "给她注入能量。"
+        },
+        {
+          "index": 83,
+          "global_index": 83,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 84,
+          "global_index": 84,
+          "type": "narration",
+          "speaker": null,
+          "text": "她不太好意思地笑了。",
+          "raw": "她不太好意思地笑了。"
+        },
+        {
+          "index": 85,
+          "global_index": 85,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 86,
+          "global_index": 86,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "嗯嗯，空太果然会说好话啊～",
+          "raw": "「嗯嗯，空太果然会说好话啊～」"
+        },
+        {
+          "index": 87,
+          "global_index": 87,
+          "type": "narration",
+          "speaker": null,
+          "text": "――被你这么老实地夸倒是让我后背一阵发凉啊。",
+          "raw": "――被你这么老实地夸倒是让我后背一阵发凉啊。"
+        },
+        {
+          "index": 88,
+          "global_index": 88,
+          "type": "narration",
+          "speaker": null,
+          "text": "像是一匹马明明都快要掉坑里了，却还只顾着吊在眼前那根胡萝卜一样。",
+          "raw": "像是一匹马明明都快要掉坑里了，却还只顾着吊在眼前那根胡萝卜一样。"
+        },
+        {
+          "index": 89,
+          "global_index": 89,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 90,
+          "global_index": 90,
+          "type": "narration",
+          "speaker": null,
+          "text": "「总是怀疑别人的话，就会变成那种冷酷对从战场归来的年轻人颐指气使的大人哦～。",
+          "raw": "「总是怀疑别人的话，就会变成那种冷酷对从战场归来的年轻人颐指气使的大人哦～。"
+        },
+        {
+          "index": 91,
+          "global_index": 91,
+          "type": "narration",
+          "speaker": null,
+          "text": "回过神来，就会进入人生的黑洞呢～」",
+          "raw": "回过神来，就会进入人生的黑洞呢～」"
+        },
+        {
+          "index": 92,
+          "global_index": 92,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 93,
+          "global_index": 93,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "黑洞……意思是，一旦变成那样就无法挽回了是吗",
+          "raw": "「黑洞……意思是，一旦变成那样就无法挽回了是吗」"
+        },
+        {
+          "index": 94,
+          "global_index": 94,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 95,
+          "global_index": 95,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "唔～，说不定有点不同。感觉应该是指被自己的重荷所压垮？",
+          "raw": "「唔～，说不定有点不同。感觉应该是指被自己的重荷所压垮？」"
+        },
+        {
+          "index": 96,
+          "global_index": 96,
+          "type": "narration",
+          "speaker": null,
+          "text": "确实，在就此引发人生的中立坍塌之前，我们还有不得不做的事情。",
+          "raw": "确实，在就此引发人生的中立坍塌之前，我们还有不得不做的事情。"
+        },
+        {
+          "index": 97,
+          "global_index": 97,
+          "type": "narration",
+          "speaker": null,
+          "text": "――这种时候，能不能从会长的魔法口袋中找到妙不可言的解决方法的提示呢？",
+          "raw": "――这种时候，能不能从会长的魔法口袋中找到妙不可言的解决方法的提示呢？"
+        },
+        {
+          "index": 98,
+          "global_index": 98,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 99,
+          "global_index": 99,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "得在正式选拔之前找到办法呢～",
+          "raw": "「得在正式选拔之前找到办法呢～」"
+        },
+        {
+          "index": 100,
+          "global_index": 100,
+          "type": "narration",
+          "speaker": null,
+          "text": "唔，就连手腕最高超的会长都心里没准啊。",
+          "raw": "唔，就连手腕最高超的会长都心里没准啊。"
+        },
+        {
+          "index": 101,
+          "global_index": 101,
+          "type": "narration",
+          "speaker": null,
+          "text": "看来我们的魔法师大人在这个情况下是也束手无策。",
+          "raw": "看来我们的魔法师大人在这个情况下是也束手无策。"
+        },
+        {
+          "index": 102,
+          "global_index": 102,
+          "type": "narration",
+          "speaker": null,
+          "text": "折断的翅膀。",
+          "raw": "折断的翅膀。"
+        },
+        {
+          "index": 103,
+          "global_index": 103,
+          "type": "narration",
+          "speaker": null,
+          "text": "前往天空的道路就此中断。",
+          "raw": "前往天空的道路就此中断。"
+        },
+        {
+          "index": 104,
+          "global_index": 104,
+          "type": "narration",
+          "speaker": null,
+          "text": "所有人奋斗至今的努力，为此付出的每一天，好不容易赢到手的胜利――",
+          "raw": "所有人奋斗至今的努力，为此付出的每一天，好不容易赢到手的胜利――"
+        },
+        {
+          "index": 105,
+          "global_index": 105,
+          "type": "narration",
+          "speaker": null,
+          "text": "都会就此消失吗。",
+          "raw": "都会就此消失吗。"
+        },
+        {
+          "index": 106,
+          "global_index": 106,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 107,
+          "global_index": 107,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "等我一下",
+          "raw": "「等我一下」"
+        },
+        {
+          "index": 108,
+          "global_index": 108,
+          "type": "narration",
+          "speaker": null,
+          "text": "一直默不作声的教官开口说话了。",
+          "raw": "一直默不作声的教官开口说话了。"
+        },
+        {
+          "index": 109,
+          "global_index": 109,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 110,
+          "global_index": 110,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "什么意思？",
+          "raw": "「什么意思？」"
+        },
+        {
+          "index": 111,
+          "global_index": 111,
+          "type": "narration",
+          "speaker": null,
+          "text": "教官没有回答我，而是径直打开仓库的门后消失在了里头。",
+          "raw": "教官没有回答我，而是径直打开仓库的门后消失在了里头。"
+        },
+        {
+          "index": 112,
+          "global_index": 112,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 113,
+          "global_index": 113,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "怎么了吗，教官在想什么呢？",
+          "raw": "「怎么了吗，教官在想什么呢？」"
+        },
+        {
+          "index": 114,
+          "global_index": 114,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 115,
+          "global_index": 115,
+          "type": "narration",
+          "speaker": null,
+          "text": "「不知道会是什么事呢。",
+          "raw": "「不知道会是什么事呢。"
+        },
+        {
+          "index": 116,
+          "global_index": 116,
+          "type": "narration",
+          "speaker": null,
+          "text": "预备用的零件应该是没有了啊……」",
+          "raw": "预备用的零件应该是没有了啊……」"
+        },
+        {
+          "index": 117,
+          "global_index": 117,
+          "type": "narration",
+          "speaker": null,
+          "text": "要让跟碎片无异的机体复活过来零件怎么都不够。光是找到一个又一个合适的零件，就不知道要花掉多少费用和时间。",
+          "raw": "要让跟碎片无异的机体复活过来零件怎么都不够。光是找到一个又一个合适的零件，就不知道要花掉多少费用和时间。"
+        },
+        {
+          "index": 118,
+          "global_index": 118,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 119,
+          "global_index": 119,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "感觉气氛挺阴沉的呢",
+          "raw": "「感觉气氛挺阴沉的呢」"
+        },
+        {
+          "index": 120,
+          "global_index": 120,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 121,
+          "global_index": 121,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "是花见啊，你那边的撤退准备已经做好了吗？",
+          "raw": "「是花见啊，你那边的撤退准备已经做好了吗？」"
+        },
+        {
+          "index": 122,
+          "global_index": 122,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 123,
+          "global_index": 123,
+          "type": "narration",
+          "speaker": null,
+          "text": "「是啊，想着在回去之前先和你们打声招呼。",
+          "raw": "「是啊，想着在回去之前先和你们打声招呼。"
+        },
+        {
+          "index": 124,
+          "global_index": 124,
+          "type": "narration",
+          "speaker": null,
+          "text": "总之，驾驶员没事就是万幸了」",
+          "raw": "总之，驾驶员没事就是万幸了」"
+        },
+        {
+          "index": 125,
+          "global_index": 125,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 126,
+          "global_index": 126,
+          "type": "narration",
+          "speaker": null,
+          "text": "「她和你看到的一样没事。",
+          "raw": "「她和你看到的一样没事。"
+        },
+        {
+          "index": 127,
+          "global_index": 127,
+          "type": "narration",
+          "speaker": null,
+          "text": "不过老实说，机体方面我们已经是举手投降了」",
+          "raw": "不过老实说，机体方面我们已经是举手投降了」"
+        },
+        {
+          "index": 128,
+          "global_index": 128,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 129,
+          "global_index": 129,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "――你们，可以进来了！",
+          "raw": "「――你们，可以进来了！」"
+        },
+        {
+          "index": 130,
+          "global_index": 130,
+          "type": "narration",
+          "speaker": null,
+          "text": "教官这一次是从仓库里头叫我们。",
+          "raw": "教官这一次是从仓库里头叫我们。"
+        },
+        {
+          "index": 131,
+          "global_index": 131,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 132,
+          "global_index": 132,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……什么事呢？",
+          "raw": "「……什么事呢？」"
+        },
+        {
+          "index": 133,
+          "global_index": 133,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 134,
+          "global_index": 134,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "其实，那个像是从战场归来的男人，在这里藏有秘而不宣的杀手锏……",
+          "raw": "「其实，那个像是从战场归来的男人，在这里藏有秘而不宣的杀手锏……」"
+        },
+        {
+          "index": 135,
+          "global_index": 135,
+          "type": "narration",
+          "speaker": null,
+          "text": "要真是的话就好了。",
+          "raw": "要真是的话就好了。"
+        },
+        {
+          "index": 136,
+          "global_index": 136,
+          "type": "narration",
+          "speaker": null,
+          "text": "被叫到之后我们都陆陆续续地进入了仓库。",
+          "raw": "被叫到之后我们都陆陆续续地进入了仓库。"
+        },
+        {
+          "index": 137,
+          "global_index": 137,
+          "type": "narration",
+          "speaker": null,
+          "text": "花见也跟了过来。",
+          "raw": "花见也跟了过来。"
+        },
+        {
+          "index": 138,
+          "global_index": 138,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 139,
+          "global_index": 139,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "还有什么事吗？",
+          "raw": "「还有什么事吗？」"
+        },
+        {
+          "index": 140,
+          "global_index": 140,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 141,
+          "global_index": 141,
+          "type": "narration",
+          "speaker": null,
+          "text": "「我也想见证到最后。",
+          "raw": "「我也想见证到最后。"
+        },
+        {
+          "index": 142,
+          "global_index": 142,
+          "type": "narration",
+          "speaker": null,
+          "text": "你们要真是就这样准备不了机体参加不了大赛的话，那在预赛上就输掉的我们不就更没有立场了吗？」",
+          "raw": "你们要真是就这样准备不了机体参加不了大赛的话，那在预赛上就输掉的我们不就更没有立场了吗？」"
+        },
+        {
+          "index": 143,
+          "global_index": 143,
+          "type": "narration",
+          "speaker": null,
+          "text": "看来我们能否顺利出席正赛对花见来说是关乎自尊心的重要问题。",
+          "raw": "看来我们能否顺利出席正赛对花见来说是关乎自尊心的重要问题。"
+        },
+        {
+          "index": 144,
+          "global_index": 144,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 145,
+          "global_index": 145,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "呜呜……对不起，都是我太笨了",
+          "raw": "「呜呜……对不起，都是我太笨了」"
+        },
+        {
+          "index": 146,
+          "global_index": 146,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 147,
+          "global_index": 147,
+          "type": "narration",
+          "speaker": null,
+          "text": "「这时候，你身为驾驶员可得振作起来啊。",
+          "raw": "「这时候，你身为驾驶员可得振作起来啊。"
+        },
+        {
+          "index": 148,
+          "global_index": 148,
+          "type": "narration",
+          "speaker": null,
+          "text": "你是赢家，给我抬头挺胸」",
+          "raw": "你是赢家，给我抬头挺胸」"
+        },
+        {
+          "index": 149,
+          "global_index": 149,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 150,
+          "global_index": 150,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……这可有点吃惊",
+          "raw": "「……这可有点吃惊」"
+        },
+        {
+          "index": 151,
+          "global_index": 151,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 152,
+          "global_index": 152,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "什么？",
+          "raw": "「什么？」"
+        },
+        {
+          "index": 153,
+          "global_index": 153,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 154,
+          "global_index": 154,
+          "type": "narration",
+          "speaker": null,
+          "text": "「没什么，就是觉得有点意外。",
+          "raw": "「没什么，就是觉得有点意外。"
+        },
+        {
+          "index": 155,
+          "global_index": 155,
+          "type": "narration",
+          "speaker": null,
+          "text": "一直以来都觉得你是个有点傲的，不太好相处的角色来着」",
+          "raw": "一直以来都觉得你是个有点傲的，不太好相处的角色来着」"
+        },
+        {
+          "index": 156,
+          "global_index": 156,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 157,
+          "global_index": 157,
+          "type": "narration",
+          "speaker": null,
+          "text": "「要是有空摆出一张蠢脸，还不如多看看周围。",
+          "raw": "「要是有空摆出一张蠢脸，还不如多看看周围。"
+        },
+        {
+          "index": 158,
+          "global_index": 158,
+          "type": "narration",
+          "speaker": null,
+          "text": "居然输给了你这种人，可真是我人生中擦不掉的污点」",
+          "raw": "居然输给了你这种人，可真是我人生中擦不掉的污点」"
+        },
+        {
+          "index": 159,
+          "global_index": 159,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 160,
+          "global_index": 160,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……我摆出蠢脸了吗",
+          "raw": "「……我摆出蠢脸了吗」"
+        },
+        {
+          "index": 161,
+          "global_index": 161,
+          "type": "narration",
+          "speaker": null,
+          "text": "【陽向/阳向】",
+          "raw": "【陽向/阳向】"
+        },
+        {
+          "index": 162,
+          "global_index": 162,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "原来如此，还真个尖锐的指摘啊",
+          "raw": "「原来如此，还真个尖锐的指摘啊」"
+        },
+        {
+          "index": 163,
+          "global_index": 163,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 164,
+          "global_index": 164,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……你的伤害输出非常高呢，谢了",
+          "raw": "「……你的伤害输出非常高呢，谢了」"
+        },
+        {
+          "index": 165,
+          "global_index": 165,
+          "type": "narration",
+          "speaker": null,
+          "text": "在仓库的最里头――作为体育馆使用的一块地里有一个舞台。",
+          "raw": "在仓库的最里头――作为体育馆使用的一块地里有一个舞台。"
+        },
+        {
+          "index": 166,
+          "global_index": 166,
+          "type": "narration",
+          "speaker": null,
+          "text": "教官就站在那一边上。",
+          "raw": "教官就站在那一边上。"
+        },
+        {
+          "index": 167,
+          "global_index": 167,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 168,
+          "global_index": 168,
+          "type": "narration",
+          "speaker": null,
+          "text": "「给你们一对新的翅膀吧。",
+          "raw": "「给你们一对新的翅膀吧。"
+        },
+        {
+          "index": 169,
+          "global_index": 169,
+          "type": "narration",
+          "speaker": null,
+          "text": "这个――收下吧」",
+          "raw": "这个――收下吧」"
+        },
+        {
+          "index": 170,
+          "global_index": 170,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 171,
+          "global_index": 171,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "吼哇――――！",
+          "raw": "「吼哇――――！」"
+        },
+        {
+          "index": 172,
+          "global_index": 172,
+          "type": "narration",
+          "speaker": null,
+          "text": "最开始是朋夏先叫出声来。",
+          "raw": "最开始是朋夏先叫出声来。"
+        },
+        {
+          "index": 173,
+          "global_index": 173,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 174,
+          "global_index": 174,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "这、这是――",
+          "raw": "「这、这是――」"
+        },
+        {
+          "index": 175,
+          "global_index": 175,
+          "type": "narration",
+          "speaker": null,
+          "text": "所有人不约而同地瞪大了眼睛。",
+          "raw": "所有人不约而同地瞪大了眼睛。"
+        },
+        {
+          "index": 176,
+          "global_index": 176,
+          "type": "narration",
+          "speaker": null,
+          "text": "那边有一台从没见过的机体。",
+          "raw": "那边有一台从没见过的机体。"
+        },
+        {
+          "index": 177,
+          "global_index": 177,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 178,
+          "global_index": 178,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "这是……飞机吗？",
+          "raw": "「这是……飞机吗？」"
+        },
+        {
+          "index": 179,
+          "global_index": 179,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 180,
+          "global_index": 180,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "…………真的？",
+          "raw": "「…………真的？」"
+        },
+        {
+          "index": 181,
+          "global_index": 181,
+          "type": "narration",
+          "speaker": null,
+          "text": "连会长都觉得震惊？",
+          "raw": "连会长都觉得震惊？"
+        },
+        {
+          "index": 182,
+          "global_index": 182,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 183,
+          "global_index": 183,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "这还真是超乎预料啊",
+          "raw": "「这还真是超乎预料啊」"
+        },
+        {
+          "index": 184,
+          "global_index": 184,
+          "type": "narration",
+          "speaker": null,
+          "text": "确实，如果会长知道有玩意的存在，不难想象她会立马就提议使用它。",
+          "raw": "确实，如果会长知道有玩意的存在，不难想象她会立马就提议使用它。"
+        },
+        {
+          "index": 185,
+          "global_index": 185,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 186,
+          "global_index": 186,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "这到底是……",
+          "raw": "「这到底是……」"
+        },
+        {
+          "index": 187,
+          "global_index": 187,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 188,
+          "global_index": 188,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "我的青春",
+          "raw": "「我的青春」"
+        },
+        {
+          "index": 189,
+          "global_index": 189,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 190,
+          "global_index": 190,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "恕我失礼……看到一个从战场上回来的男人闪着一对星星眼，还真是对健康有害",
+          "raw": "「恕我失礼……看到一个从战场上回来的男人闪着一对星星眼，还真是对健康有害」"
+        },
+        {
+          "index": 191,
+          "global_index": 191,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 192,
+          "global_index": 192,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "放心吧。我就是为了这个才戴的墨镜",
+          "raw": "「放心吧。我就是为了这个才戴的墨镜」"
+        },
+        {
+          "index": 193,
+          "global_index": 193,
+          "type": "narration",
+          "speaker": null,
+          "text": "看来那是在照顾我们的健康。",
+          "raw": "看来那是在照顾我们的健康。"
+        },
+        {
+          "index": 194,
+          "global_index": 194,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 195,
+          "global_index": 195,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "原来如此……大人还真是不容易啊",
+          "raw": "「原来如此……大人还真是不容易啊」"
+        },
+        {
+          "index": 196,
+          "global_index": 196,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 197,
+          "global_index": 197,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "与此相对的，也得让年轻人也吃吃苦头",
+          "raw": "「与此相对的，也得让年轻人也吃吃苦头」"
+        },
+        {
+          "index": 198,
+          "global_index": 198,
+          "type": "narration",
+          "speaker": null,
+          "text": "他所说的年轻人，毫无疑问是我们对吧？",
+          "raw": "他所说的年轻人，毫无疑问是我们对吧？"
+        },
+        {
+          "index": 199,
+          "global_index": 199,
+          "type": "narration",
+          "speaker": null,
+          "text": "要是比现在更加辛苦的话，我都要拒绝想象了。",
+          "raw": "要是比现在更加辛苦的话，我都要拒绝想象了。"
+        },
+        {
+          "index": 200,
+          "global_index": 200,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 201,
+          "global_index": 201,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "不过话说回来，这还真是――",
+          "raw": "「不过话说回来，这还真是――」"
+        },
+        {
+          "index": 202,
+          "global_index": 202,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 203,
+          "global_index": 203,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "居然会在这种地方――这是多么美丽的机体啊！",
+          "raw": "「居然会在这种地方――这是多么美丽的机体啊！」"
+        },
+        {
+          "index": 204,
+          "global_index": 204,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 205,
+          "global_index": 205,
+          "type": "narration",
+          "speaker": null,
+          "text": "「漂亮的机翼――",
+          "raw": "「漂亮的机翼――"
+        },
+        {
+          "index": 206,
+          "global_index": 206,
+          "type": "narration",
+          "speaker": null,
+          "text": "明明乍一看会觉得平衡上很让人不安，可这其实是进行了无数计算的配置。",
+          "raw": "明明乍一看会觉得平衡上很让人不安，可这其实是进行了无数计算的配置。"
+        },
+        {
+          "index": 207,
+          "global_index": 207,
+          "type": "narration",
+          "speaker": null,
+          "text": "真是了不起的设计思想的产物」",
+          "raw": "真是了不起的设计思想的产物」"
+        },
+        {
+          "index": 208,
+          "global_index": 208,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 209,
+          "global_index": 209,
+          "type": "narration",
+          "speaker": null,
+          "text": "「研磨地锐利透明的挡风玻璃，造型简单却凝聚了理念的泪滴型机身，而且还有这个角度！",
+          "raw": "「研磨地锐利透明的挡风玻璃，造型简单却凝聚了理念的泪滴型机身，而且还有这个角度！"
+        },
+        {
+          "index": 210,
+          "global_index": 210,
+          "type": "narration",
+          "speaker": null,
+          "text": "不管哪一部分都远超一般水准！」",
+          "raw": "不管哪一部分都远超一般水准！」"
+        },
+        {
+          "index": 211,
+          "global_index": 211,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 212,
+          "global_index": 212,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "我说……",
+          "raw": "「我说……」"
+        },
+        {
+          "index": 213,
+          "global_index": 213,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 214,
+          "global_index": 214,
+          "type": "narration",
+          "speaker": null,
+          "text": "「你能再感动一点吗！",
+          "raw": "「你能再感动一点吗！"
+        },
+        {
+          "index": 215,
+          "global_index": 215,
+          "type": "narration",
+          "speaker": null,
+          "text": "这个设计，和那些没从设计室里出来过的雏形机可是天壤之别啊。",
+          "raw": "这个设计，和那些没从设计室里出来过的雏形机可是天壤之别啊。"
+        },
+        {
+          "index": 216,
+          "global_index": 216,
+          "type": "narration",
+          "speaker": null,
+          "text": "不是针对单纯针对机体的泛泛而谈，而是为了实际上挑战记录而生的名机啊！」",
+          "raw": "不是针对单纯针对机体的泛泛而谈，而是为了实际上挑战记录而生的名机啊！」"
+        },
+        {
+          "index": 217,
+          "global_index": 217,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 218,
+          "global_index": 218,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "那个――",
+          "raw": "「那个――」"
+        },
+        {
+          "index": 219,
+          "global_index": 219,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 220,
+          "global_index": 220,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "哈啊……怎么会这样，这一天是怎么了，最糟和最好的事全都发生了。我的人生里不会再有这样的一天了",
+          "raw": "「哈啊……怎么会这样，这一天是怎么了，最糟和最好的事全都发生了。我的人生里不会再有这样的一天了」"
+        },
+        {
+          "index": 221,
+          "global_index": 221,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 222,
+          "global_index": 222,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "完全听不懂",
+          "raw": "「完全听不懂」"
+        },
+        {
+          "index": 223,
+          "global_index": 223,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 224,
+          "global_index": 224,
+          "type": "narration",
+          "speaker": null,
+          "text": "「你们啊，都什么表情啊，再笑大声点，再震惊一点，再感动一点！",
+          "raw": "「你们啊，都什么表情啊，再笑大声点，再震惊一点，再感动一点！"
+        },
+        {
+          "index": 225,
+          "global_index": 225,
+          "type": "narration",
+          "speaker": null,
+          "text": "你们此刻正在见证着历史啊！」",
+          "raw": "你们此刻正在见证着历史啊！」"
+        },
+        {
+          "index": 226,
+          "global_index": 226,
+          "type": "narration",
+          "speaker": null,
+          "text": "就算你说什么记录什么名机什么历史我也还是听不懂啊。",
+          "raw": "就算你说什么记录什么名机什么历史我也还是听不懂啊。"
+        },
+        {
+          "index": 227,
+          "global_index": 227,
+          "type": "narration",
+          "speaker": null,
+          "text": "要我说啊，花见同学，你的角色性格是不是变了啊？",
+          "raw": "要我说啊，花见同学，你的角色性格是不是变了啊？"
+        },
+        {
+          "index": 228,
+          "global_index": 228,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 229,
+          "global_index": 229,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "人还真是不可貌相啊",
+          "raw": "「人还真是不可貌相啊」"
+        },
+        {
+          "index": 230,
+          "global_index": 230,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 231,
+          "global_index": 231,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "与其说是不可貌相，她这样子更加像是吃错了什么东西",
+          "raw": "「与其说是不可貌相，她这样子更加像是吃错了什么东西」"
+        },
+        {
+          "index": 232,
+          "global_index": 232,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 233,
+          "global_index": 233,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "是真吃了吗？",
+          "raw": "「是真吃了吗？」"
+        },
+        {
+          "index": 234,
+          "global_index": 234,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 235,
+          "global_index": 235,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……呃，大概是吃噩梦吃撑了吧",
+          "raw": "「……呃，大概是吃噩梦吃撑了吧」"
+        },
+        {
+          "index": 236,
+          "global_index": 236,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 237,
+          "global_index": 237,
+          "type": "narration",
+          "speaker": null,
+          "text": "「还真是挺厉害的呢～。",
+          "raw": "「还真是挺厉害的呢～。"
+        },
+        {
+          "index": 238,
+          "global_index": 238,
+          "type": "narration",
+          "speaker": null,
+          "text": "给空太送上一台机体当作礼物！」",
+          "raw": "给空太送上一台机体当作礼物！」"
+        },
+        {
+          "index": 239,
+          "global_index": 239,
+          "type": "narration",
+          "speaker": null,
+          "text": "别啊，提供了奖品的又不是会长。",
+          "raw": "别啊，提供了奖品的又不是会长。"
+        },
+        {
+          "index": 240,
+          "global_index": 240,
+          "type": "narration",
+          "speaker": null,
+          "text": "等我们闹腾完之后，教官开口了。",
+          "raw": "等我们闹腾完之后，教官开口了。"
+        },
+        {
+          "index": 241,
+          "global_index": 241,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 242,
+          "global_index": 242,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "就在大赛上用这台机体吧",
+          "raw": "「就在大赛上用这台机体吧」"
+        },
+        {
+          "index": 243,
+          "global_index": 243,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 244,
+          "global_index": 244,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 245,
+          "global_index": 245,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "刚才花见说的，所谓的历史是？",
+          "raw": "「刚才花见说的，所谓的历史是？」"
+        },
+        {
+          "index": 246,
+          "global_index": 246,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 247,
+          "global_index": 247,
+          "type": "narration",
+          "speaker": null,
+          "text": "「果然有人听说过啊。",
+          "raw": "「果然有人听说过啊。"
+        },
+        {
+          "index": 248,
+          "global_index": 248,
+          "type": "narration",
+          "speaker": null,
+          "text": "不过嘛，也不是那么了不起的东西。这不过是我年轻的时候做着玩儿的东西」",
+          "raw": "不过嘛，也不是那么了不起的东西。这不过是我年轻的时候做着玩儿的东西」"
+        },
+        {
+          "index": 249,
+          "global_index": 249,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 250,
+          "global_index": 250,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "年轻的时候……是吗",
+          "raw": "「年轻的时候……是吗」"
+        },
+        {
+          "index": 251,
+          "global_index": 251,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 252,
+          "global_index": 252,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "咦？　那就是说，教官年轻的时候也做过和我们一样的事吗？",
+          "raw": "「咦？　那就是说，教官年轻的时候也做过和我们一样的事吗？」"
+        },
+        {
+          "index": 253,
+          "global_index": 253,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 254,
+          "global_index": 254,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "这真的是教官做……好厉害，竟然能做出这样的机体……",
+          "raw": "「这真的是教官做……好厉害，竟然能做出这样的机体……」"
+        },
+        {
+          "index": 255,
+          "global_index": 255,
+          "type": "narration",
+          "speaker": null,
+          "text": "青春啊――",
+          "raw": "青春啊――"
+        },
+        {
+          "index": 256,
+          "global_index": 256,
+          "type": "narration",
+          "speaker": null,
+          "text": "刚才教官说的话。",
+          "raw": "刚才教官说的话。"
+        },
+        {
+          "index": 257,
+          "global_index": 257,
+          "type": "narration",
+          "speaker": null,
+          "text": "难道说那是他的真心话吗？",
+          "raw": "难道说那是他的真心话吗？"
+        },
+        {
+          "index": 258,
+          "global_index": 258,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 259,
+          "global_index": 259,
+          "type": "narration",
+          "speaker": null,
+          "text": "「那个……能请您告诉我关于这架机体的事情吗！",
+          "raw": "「那个……能请您告诉我关于这架机体的事情吗！"
+        },
+        {
+          "index": 260,
+          "global_index": 260,
+          "type": "narration",
+          "speaker": null,
+          "text": "还有他们梦幻般的事迹」",
+          "raw": "还有他们梦幻般的事迹」"
+        },
+        {
+          "index": 261,
+          "global_index": 261,
+          "type": "narration",
+          "speaker": null,
+          "text": "这气势真可谓是不说就不让走。",
+          "raw": "这气势真可谓是不说就不让走。"
+        },
+        {
+          "index": 262,
+          "global_index": 262,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 263,
+          "global_index": 263,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "与其听老兵说过去的故事，还不如去做你们该做的事",
+          "raw": "「与其听老兵说过去的故事，还不如去做你们该做的事」"
+        },
+        {
+          "index": 264,
+          "global_index": 264,
+          "type": "narration",
+          "speaker": null,
+          "text": "教官的视线透过太阳眼镜，落在了机体上。",
+          "raw": "教官的视线透过太阳眼镜，落在了机体上。"
+        },
+        {
+          "index": 265,
+          "global_index": 265,
+          "type": "narration",
+          "speaker": null,
+          "text": "纯白的美丽机体反射着仓库照明的光亮。",
+          "raw": "纯白的美丽机体反射着仓库照明的光亮。"
+        },
+        {
+          "index": 266,
+          "global_index": 266,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 267,
+          "global_index": 267,
+          "type": "narration",
+          "speaker": null,
+          "text": "「可是――这个机体在设计时想要达到的目标和这次的竞技内容有相当大的区别。",
+          "raw": "「可是――这个机体在设计时想要达到的目标和这次的竞技内容有相当大的区别。"
+        },
+        {
+          "index": 268,
+          "global_index": 268,
+          "type": "narration",
+          "speaker": null,
+          "text": "是不是需要相当繁琐的改造呢？」",
+          "raw": "是不是需要相当繁琐的改造呢？」"
+        },
+        {
+          "index": 269,
+          "global_index": 269,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 270,
+          "global_index": 270,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "真不愧是你啊花见，一下子就看出来了",
+          "raw": "「真不愧是你啊花见，一下子就看出来了」"
+        },
+        {
+          "index": 271,
+          "global_index": 271,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 272,
+          "global_index": 272,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "过、过奖了。可是……",
+          "raw": "「过、过奖了。可是……」"
+        },
+        {
+          "index": 273,
+          "global_index": 273,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 274,
+          "global_index": 274,
+          "type": "narration",
+          "speaker": null,
+          "text": "「我知道你想说什么。",
+          "raw": "「我知道你想说什么。"
+        },
+        {
+          "index": 275,
+          "global_index": 275,
+          "type": "narration",
+          "speaker": null,
+          "text": "要将这机体调整得适应大赛，对现在的宇宙科学会来说，时间是压倒性的不足」",
+          "raw": "要将这机体调整得适应大赛，对现在的宇宙科学会来说，时间是压倒性的不足」"
+        },
+        {
+          "index": 276,
+          "global_index": 276,
+          "type": "narration",
+          "speaker": null,
+          "text": "没错。",
+          "raw": "没错。"
+        },
+        {
+          "index": 277,
+          "global_index": 277,
+          "type": "narration",
+          "speaker": null,
+          "text": "不光是时间，对知识和技术能力的要求也会比预赛的时候高出不少吧。",
+          "raw": "不光是时间，对知识和技术能力的要求也会比预赛的时候高出不少吧。"
+        },
+        {
+          "index": 278,
+          "global_index": 278,
+          "type": "narration",
+          "speaker": null,
+          "text": "我们能做得到吗。",
+          "raw": "我们能做得到吗。"
+        },
+        {
+          "index": 279,
+          "global_index": 279,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 280,
+          "global_index": 280,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……你是有什么打算呢？",
+          "raw": "「……你是有什么打算呢？」"
+        },
+        {
+          "index": 281,
+          "global_index": 281,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 282,
+          "global_index": 282,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "在意吗",
+          "raw": "「在意吗」"
+        },
+        {
+          "index": 283,
+          "global_index": 283,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 284,
+          "global_index": 284,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "这个嘛，好歹也是击败了我们得以出席大赛的对手……",
+          "raw": "「这个嘛，好歹也是击败了我们得以出席大赛的对手……」"
+        },
+        {
+          "index": 285,
+          "global_index": 285,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 286,
+          "global_index": 286,
+          "type": "narration",
+          "speaker": null,
+          "text": "「既然如此，那你能帮帮我们吗？",
+          "raw": "「既然如此，那你能帮帮我们吗？"
+        },
+        {
+          "index": 287,
+          "global_index": 287,
+          "type": "narration",
+          "speaker": null,
+          "text": "感觉你对这机体挺熟悉的，来得正好」",
+          "raw": "感觉你对这机体挺熟悉的，来得正好」"
+        },
+        {
+          "index": 288,
+          "global_index": 288,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 289,
+          "global_index": 289,
+          "type": "narration",
+          "speaker": null,
+          "text": "【陽向/阳向】",
+          "raw": "【陽向/阳向】"
+        },
+        {
+          "index": 290,
+          "global_index": 290,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "是呢，人手也不够，如果有知识和经验都很丰富的花见帮忙，就真是太好了",
+          "raw": "「是呢，人手也不够，如果有知识和经验都很丰富的花见帮忙，就真是太好了」"
+        },
+        {
+          "index": 291,
+          "global_index": 291,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 292,
+          "global_index": 292,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "求你了，花见学姐！",
+          "raw": "「求你了，花见学姐！」"
+        },
+        {
+          "index": 293,
+          "global_index": 293,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 294,
+          "global_index": 294,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "呃，不过、这个……",
+          "raw": "「呃，不过、这个……」"
+        },
+        {
+          "index": 295,
+          "global_index": 295,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 296,
+          "global_index": 296,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "为什么",
+          "raw": "「为什么」"
+        },
+        {
+          "index": 297,
+          "global_index": 297,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 298,
+          "global_index": 298,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "什么为什么…………",
+          "raw": "「什么为什么…………」"
+        },
+        {
+          "index": 299,
+          "global_index": 299,
+          "type": "narration",
+          "speaker": null,
+          "text": "她绷紧了嘴唇。",
+          "raw": "她绷紧了嘴唇。"
+        },
+        {
+          "index": 300,
+          "global_index": 300,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 301,
+          "global_index": 301,
+          "type": "narration",
+          "speaker": null,
+          "text": "「我在战斗中落败了，继续往下走那是赢家的权利。",
+          "raw": "「我在战斗中落败了，继续往下走那是赢家的权利。"
+        },
+        {
+          "index": 302,
+          "global_index": 302,
+          "type": "narration",
+          "speaker": null,
+          "text": "输了比赛的我没有那个权利」",
+          "raw": "输了比赛的我没有那个权利」"
+        },
+        {
+          "index": 303,
+          "global_index": 303,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 304,
+          "global_index": 304,
+          "type": "narration",
+          "speaker": null,
+          "text": "「权利这边没问题。倒不如说，我都想利用赢家的权利来邀请你了。",
+          "raw": "「权利这边没问题。倒不如说，我都想利用赢家的权利来邀请你了。"
+        },
+        {
+          "index": 305,
+          "global_index": 305,
+          "type": "narration",
+          "speaker": null,
+          "text": "不管怎么说，没有花见帮忙的话，我们好像也参加不了大赛了」",
+          "raw": "不管怎么说，没有花见帮忙的话，我们好像也参加不了大赛了」"
+        },
+        {
+          "index": 306,
+          "global_index": 306,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 307,
+          "global_index": 307,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "是啊……虽然感觉有点难开口……",
+          "raw": "「是啊……虽然感觉有点难开口……」"
+        },
+        {
+          "index": 308,
+          "global_index": 308,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 309,
+          "global_index": 309,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "这、这种事，我并不……",
+          "raw": "「这、这种事，我并不……」"
+        },
+        {
+          "index": 310,
+          "global_index": 310,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 311,
+          "global_index": 311,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "如果你打算今后都在这个世界摸爬滚打的话，想必会是一次很好的经验吧",
+          "raw": "「如果你打算今后都在这个世界摸爬滚打的话，想必会是一次很好的经验吧」"
+        },
+        {
+          "index": 312,
+          "global_index": 312,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 313,
+          "global_index": 313,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "这个，倒是没错……",
+          "raw": "「这个，倒是没错……」"
+        },
+        {
+          "index": 314,
+          "global_index": 314,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 315,
+          "global_index": 315,
+          "type": "narration",
+          "speaker": null,
+          "text": "「让这机体再一起飞上天空。",
+          "raw": "「让这机体再一起飞上天空。"
+        },
+        {
+          "index": 316,
+          "global_index": 316,
+          "type": "narration",
+          "speaker": null,
+          "text": "但是，只靠平山他们还办不到。花见，你的力量是必须的」",
+          "raw": "但是，只靠平山他们还办不到。花见，你的力量是必须的」"
+        },
+        {
+          "index": 317,
+          "global_index": 317,
+          "type": "narration",
+          "speaker": null,
+          "text": "我们也把认真的视线投向花见。",
+          "raw": "我们也把认真的视线投向花见。"
+        },
+        {
+          "index": 318,
+          "global_index": 318,
+          "type": "narration",
+          "speaker": null,
+          "text": "包含着希望得到她帮助的愿望。",
+          "raw": "包含着希望得到她帮助的愿望。"
+        },
+        {
+          "index": 319,
+          "global_index": 319,
+          "type": "narration",
+          "speaker": null,
+          "text": "然后等待她的回音。",
+          "raw": "然后等待她的回音。"
+        },
+        {
+          "index": 320,
+          "global_index": 320,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 321,
+          "global_index": 321,
+          "type": "narration",
+          "speaker": null,
+          "text": "「…………我明白了。",
+          "raw": "「…………我明白了。"
+        },
+        {
+          "index": 322,
+          "global_index": 322,
+          "type": "narration",
+          "speaker": null,
+          "text": "不为别的，只是因为都说到这份上了」",
+          "raw": "不为别的，只是因为都说到这份上了」"
+        },
+        {
+          "index": 323,
+          "global_index": 323,
+          "type": "narration",
+          "speaker": null,
+          "text": "意外地很快就得到了回答。",
+          "raw": "意外地很快就得到了回答。"
+        },
+        {
+          "index": 324,
+          "global_index": 324,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 325,
+          "global_index": 325,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "即便是空君，在威信也比不过教官呢～",
+          "raw": "「即便是空君，在威信也比不过教官呢～」"
+        },
+        {
+          "index": 326,
+          "global_index": 326,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 327,
+          "global_index": 327,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "唉，这就是为人经历的不同啦",
+          "raw": "「唉，这就是为人经历的不同啦」"
+        },
+        {
+          "index": 328,
+          "global_index": 328,
+          "type": "narration",
+          "speaker": null,
+          "text": "会长轻快地移动到了花见背后。",
+          "raw": "会长轻快地移动到了花见背后。"
+        },
+        {
+          "index": 329,
+          "global_index": 329,
+          "type": "narration",
+          "speaker": null,
+          "text": "接着把脸凑到花见耳边说起了悄悄话。",
+          "raw": "接着把脸凑到花见耳边说起了悄悄话。"
+        },
+        {
+          "index": 330,
+          "global_index": 330,
+          "type": "narration",
+          "speaker": null,
+          "text": "虽然我听不到她们说了什么，只不过花见的脸一瞬间就红成了番茄。",
+          "raw": "虽然我听不到她们说了什么，只不过花见的脸一瞬间就红成了番茄。"
+        },
+        {
+          "index": 331,
+          "global_index": 331,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 332,
+          "global_index": 332,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "我、我才没有呢！",
+          "raw": "「我、我才没有呢！」"
+        },
+        {
+          "index": 333,
+          "global_index": 333,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 334,
+          "global_index": 334,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "吼吼吼吼吼",
+          "raw": "「吼吼吼吼吼」"
+        },
+        {
+          "index": 335,
+          "global_index": 335,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 336,
+          "global_index": 336,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "感觉这笑声让整件事变得更加可疑了啊",
+          "raw": "「感觉这笑声让整件事变得更加可疑了啊」"
+        },
+        {
+          "index": 337,
+          "global_index": 337,
+          "type": "narration",
+          "speaker": null,
+          "text": "【陽向/阳向】",
+          "raw": "【陽向/阳向】"
+        },
+        {
+          "index": 338,
+          "global_index": 338,
+          "type": "narration",
+          "speaker": null,
+          "text": "「就算是，我也觉得比失落消沉要好得多。",
+          "raw": "「就算是，我也觉得比失落消沉要好得多。"
+        },
+        {
+          "index": 339,
+          "global_index": 339,
+          "type": "narration",
+          "speaker": null,
+          "text": "毕竟这也是为身处最糟糕的状况下的我们打开了一扇门啊」",
+          "raw": "毕竟这也是为身处最糟糕的状况下的我们打开了一扇门啊」"
+        },
+        {
+          "index": 340,
+          "global_index": 340,
+          "type": "narration",
+          "speaker": null,
+          "text": "说不定确实就像名香野学姐说的那样。",
+          "raw": "说不定确实就像名香野学姐说的那样。"
+        },
+        {
+          "index": 341,
+          "global_index": 341,
+          "type": "narration",
+          "speaker": null,
+          "text": "如果可以的话，我也不想盯着暗沉沉的地面，而是想抬起头来仰望天空。",
+          "raw": "如果可以的话，我也不想盯着暗沉沉的地面，而是想抬起头来仰望天空。"
+        },
+        {
+          "index": 342,
+          "global_index": 342,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 343,
+          "global_index": 343,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "花见同～～～～～学！",
+          "raw": "「花见同～～～～～学！」"
+        },
+        {
+          "index": 344,
+          "global_index": 344,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 345,
+          "global_index": 345,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "呀啊啊！",
+          "raw": "「呀啊啊！」"
+        },
+        {
+          "index": 346,
+          "global_index": 346,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 347,
+          "global_index": 347,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "最喜欢你了！",
+          "raw": "「最喜欢你了！」"
+        },
+        {
+          "index": 348,
+          "global_index": 348,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 349,
+          "global_index": 349,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "慢着、慢、啊～",
+          "raw": "「慢着、慢、啊～」"
+        },
+        {
+          "index": 350,
+          "global_index": 350,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 351,
+          "global_index": 351,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "Nice，朋夏！",
+          "raw": "「Nice，朋夏！」"
+        },
+        {
+          "index": 352,
+          "global_index": 352,
+          "type": "narration",
+          "speaker": null,
+          "text": "我的青梅竹马以想要接吻的气势紧紧地黏住花见。",
+          "raw": "我的青梅竹马以想要接吻的气势紧紧地黏住花见。"
+        },
+        {
+          "index": 353,
+          "global_index": 353,
+          "type": "narration",
+          "speaker": null,
+          "text": "赶紧用手机拍下来。",
+          "raw": "赶紧用手机拍下来。"
+        },
+        {
+          "index": 354,
+          "global_index": 354,
+          "type": "narration",
+          "speaker": null,
+          "text": "我找到了一个让人口水流不停的角度。",
+          "raw": "我找到了一个让人口水流不停的角度。"
+        },
+        {
+          "index": 355,
+          "global_index": 355,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 356,
+          "global_index": 356,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "唔，如果觉得光她们还不够有意思的话，小阳你们也加入不就好了～",
+          "raw": "「唔，如果觉得光她们还不够有意思的话，小阳你们也加入不就好了～」"
+        },
+        {
+          "index": 357,
+          "global_index": 357,
+          "type": "narration",
+          "speaker": null,
+          "text": "【陽向/阳向】",
+          "raw": "【陽向/阳向】"
+        },
+        {
+          "index": 358,
+          "global_index": 358,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "什么不够有意思……",
+          "raw": "「什么不够有意思……」"
+        },
+        {
+          "index": 359,
+          "global_index": 359,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 360,
+          "global_index": 360,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "呃，那个，是说什么呢？",
+          "raw": "「呃，那个，是说什么呢？」"
+        },
+        {
+          "index": 361,
+          "global_index": 361,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 362,
+          "global_index": 362,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "来嘛",
+          "raw": "「来嘛」"
+        },
+        {
+          "index": 363,
+          "global_index": 363,
+          "type": "narration",
+          "speaker": null,
+          "text": "会长拉过还在困惑的两姐妹的手，靠到了花见和朋夏那边去。",
+          "raw": "会长拉过还在困惑的两姐妹的手，靠到了花见和朋夏那边去。"
+        },
+        {
+          "index": 364,
+          "global_index": 364,
+          "type": "narration",
+          "speaker": null,
+          "text": "【陽向/阳向】",
+          "raw": "【陽向/阳向】"
+        },
+        {
+          "index": 365,
+          "global_index": 365,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "呀哇",
+          "raw": "「呀哇」"
+        },
+        {
+          "index": 366,
+          "global_index": 366,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 367,
+          "global_index": 367,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 368,
+          "global_index": 368,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "嗯呵呵～～～嗯",
+          "raw": "「嗯呵呵～～～嗯」"
+        },
+        {
+          "index": 369,
+          "global_index": 369,
+          "type": "narration",
+          "speaker": null,
+          "text": "抱成一团地转来转去。",
+          "raw": "抱成一团地转来转去。"
+        },
+        {
+          "index": 370,
+          "global_index": 370,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 371,
+          "global_index": 371,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "真是的，怎么回事啊～～～",
+          "raw": "「真是的，怎么回事啊～～～」"
+        },
+        {
+          "index": 372,
+          "global_index": 372,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 373,
+          "global_index": 373,
+          "type": "narration",
+          "speaker": null,
+          "text": "「有什么不好嘛。",
+          "raw": "「有什么不好嘛。"
+        },
+        {
+          "index": 374,
+          "global_index": 374,
+          "type": "narration",
+          "speaker": null,
+          "text": "喂，我觉得空君最好也过来哦～」",
+          "raw": "喂，我觉得空君最好也过来哦～」"
+        },
+        {
+          "index": 375,
+          "global_index": 375,
+          "type": "narration",
+          "speaker": null,
+          "text": "她朝我招手。",
+          "raw": "她朝我招手。"
+        },
+        {
+          "index": 376,
+          "global_index": 376,
+          "type": "narration",
+          "speaker": null,
+          "text": "好不容易才等到我的出场机会啊，我正打算冲进去而抬起头的时候――",
+          "raw": "好不容易才等到我的出场机会啊，我正打算冲进去而抬起头的时候――"
+        },
+        {
+          "index": 377,
+          "global_index": 377,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 378,
+          "global_index": 378,
+          "type": "narration",
+          "speaker": null,
+          "text": "【陽向/阳向】",
+          "raw": "【陽向/阳向】"
+        },
+        {
+          "index": 379,
+          "global_index": 379,
+          "type": "narration",
+          "speaker": null,
+          "text": "两人一组的尖锐视线刺得我好痛。",
+          "raw": "两人一组的尖锐视线刺得我好痛。"
+        },
+        {
+          "index": 380,
+          "global_index": 380,
+          "type": "narration",
+          "speaker": null,
+          "text": "要扛住这样的视线参合进去，可真是不入虎穴焉得虎子啊。",
+          "raw": "要扛住这样的视线参合进去，可真是不入虎穴焉得虎子啊。"
+        },
+        {
+          "index": 381,
+          "global_index": 381,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 382,
+          "global_index": 382,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "很好，要为了大赛好好努力了哦～！",
+          "raw": "「很好，要为了大赛好好努力了哦～！」"
+        },
+        {
+          "index": 383,
+          "global_index": 383,
+          "type": "narration",
+          "speaker": null,
+          "text": "朋夏像是要把自己的热情传播给所有人一样地闹腾。",
+          "raw": "朋夏像是要把自己的热情传播给所有人一样地闹腾。"
+        },
+        {
+          "index": 384,
+          "global_index": 384,
+          "type": "narration",
+          "speaker": null,
+          "text": "这就是我们获得了目标和手段的瞬间。",
+          "raw": "这就是我们获得了目标和手段的瞬间。"
+        },
+        {
+          "index": 385,
+          "global_index": 385,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 386,
+          "global_index": 386,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "很好，那么我也……",
+          "raw": "「很好，那么我也……」"
+        },
+        {
+          "index": 387,
+          "global_index": 387,
+          "type": "narration",
+          "speaker": null,
+          "text": "我刚想过去凑一份子，就有人把手放在了我肩上。",
+          "raw": "我刚想过去凑一份子，就有人把手放在了我肩上。"
+        },
+        {
+          "index": 388,
+          "global_index": 388,
+          "type": "narration",
+          "speaker": null,
+          "text": "那是教官粗糙又宽大的手。",
+          "raw": "那是教官粗糙又宽大的手。"
+        },
+        {
+          "index": 389,
+          "global_index": 389,
+          "type": "narration",
+          "speaker": null,
+          "text": "正想抬头问他有什么时候，倒是教官默默地摇了摇头。",
+          "raw": "正想抬头问他有什么时候，倒是教官默默地摇了摇头。"
+        },
+        {
+          "index": 390,
+          "global_index": 390,
+          "type": "narration",
+          "speaker": null,
+          "text": "看来女生的世界果然不是男生能进入的。",
+          "raw": "看来女生的世界果然不是男生能进入的。"
+        },
+        {
+          "index": 391,
+          "global_index": 391,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 392,
+          "global_index": 392,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……可惜",
+          "raw": "「……可惜」"
+        },
+        {
+          "index": 393,
+          "global_index": 393,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 394,
+          "global_index": 394,
+          "type": "narration",
+          "speaker": null,
+          "text": "「别气馁。",
+          "raw": "「别气馁。"
+        },
+        {
+          "index": 395,
+          "global_index": 395,
+          "type": "narration",
+          "speaker": null,
+          "text": "学习、瞄准、出击。平山，机会多着呢」",
+          "raw": "学习、瞄准、出击。平山，机会多着呢」"
+        },
+        {
+          "index": 396,
+          "global_index": 396,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 397,
+          "global_index": 397,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……这说的是什么呢",
+          "raw": "「……这说的是什么呢」"
+        },
+        {
+          "index": 398,
+          "global_index": 398,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 399,
+          "global_index": 399,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "这是男人之间的对话",
+          "raw": "「这是男人之间的对话」"
+        },
+        {
+          "index": 400,
+          "global_index": 400,
+          "type": "narration",
+          "speaker": null,
+          "text": "这人的城府果然很深啊。",
+          "raw": "这人的城府果然很深啊。"
+        },
+        {
+          "index": 401,
+          "global_index": 401,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 402,
+          "global_index": 402,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "好了，我要说说关于之后的安排了，各位可要听好了哦～",
+          "raw": "「好了，我要说说关于之后的安排了，各位可要听好了哦～」"
+        },
+        {
+          "index": 403,
+          "global_index": 403,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 404,
+          "global_index": 404,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "之后的安排，是吗？",
+          "raw": "「之后的安排，是吗？」"
+        },
+        {
+          "index": 405,
+          "global_index": 405,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 406,
+          "global_index": 406,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "虽然得到了一为强有力的援军，不过时间上压倒性的不足也是事实～",
+          "raw": "「虽然得到了一为强有力的援军，不过时间上压倒性的不足也是事实～」"
+        },
+        {
+          "index": 407,
+          "global_index": 407,
+          "type": "narration",
+          "speaker": null,
+          "text": "【陽向/阳向】",
+          "raw": "【陽向/阳向】"
+        },
+        {
+          "index": 408,
+          "global_index": 408,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "虽然很想赶快把作业期间的积累发挥出来……不过问题在于不知道需要进行哪种程度的改造",
+          "raw": "「虽然很想赶快把作业期间的积累发挥出来……不过问题在于不知道需要进行哪种程度的改造」"
+        },
+        {
+          "index": 409,
+          "global_index": 409,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 410,
+          "global_index": 410,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "所以呢，我决定要合宿～",
+          "raw": "「所以呢，我决定要合宿～」"
+        },
+        {
+          "index": 411,
+          "global_index": 411,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 412,
+          "global_index": 412,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "您说什么？",
+          "raw": "「您说什么？」"
+        },
+        {
+          "index": 413,
+          "global_index": 413,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 414,
+          "global_index": 414,
+          "type": "narration",
+          "speaker": null,
+          "text": "「很不错嘛，合宿！",
+          "raw": "「很不错嘛，合宿！"
+        },
+        {
+          "index": 415,
+          "global_index": 415,
+          "type": "narration",
+          "speaker": null,
+          "text": "咕～，激情四射啊～！」",
+          "raw": "咕～，激情四射啊～！」"
+        },
+        {
+          "index": 416,
+          "global_index": 416,
+          "type": "narration",
+          "speaker": null,
+          "text": "不对不对，慢着慢着。",
+          "raw": "不对不对，慢着慢着。"
+        },
+        {
+          "index": 417,
+          "global_index": 417,
+          "type": "narration",
+          "speaker": null,
+          "text": "突然说要合宿，可是一点儿准备都没有啊。",
+          "raw": "突然说要合宿，可是一点儿准备都没有啊。"
+        },
+        {
+          "index": 418,
+          "global_index": 418,
+          "type": "narration",
+          "speaker": null,
+          "text": "万一有人计划要在这个夏天里去什么地方旅行的话可怎么办啊。",
+          "raw": "万一有人计划要在这个夏天里去什么地方旅行的话可怎么办啊。"
+        },
+        {
+          "index": 419,
+          "global_index": 419,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 420,
+          "global_index": 420,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "有人已经规划好自己的暑假了吗～？",
+          "raw": "「有人已经规划好自己的暑假了吗～？」"
+        },
+        {
+          "index": 421,
+          "global_index": 421,
+          "type": "narration",
+          "speaker": null,
+          "text": "会长环视了众人的脸，没人有反应。",
+          "raw": "会长环视了众人的脸，没人有反应。"
+        },
+        {
+          "index": 422,
+          "global_index": 422,
+          "type": "narration",
+          "speaker": null,
+          "text": "也就是说，还没有谁做好了什么预定。",
+          "raw": "也就是说，还没有谁做好了什么预定。"
+        },
+        {
+          "index": 423,
+          "global_index": 423,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 424,
+          "global_index": 424,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "那么就没问题了呢～",
+          "raw": "「那么就没问题了呢～」"
+        },
+        {
+          "index": 425,
+          "global_index": 425,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 426,
+          "global_index": 426,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "那个，我先要联系一下妈妈……",
+          "raw": "「那个，我先要联系一下妈妈……」"
+        },
+        {
+          "index": 427,
+          "global_index": 427,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 428,
+          "global_index": 428,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "啊，这个的话应该没问题了～",
+          "raw": "「啊，这个的话应该没问题了～」"
+        },
+        {
+          "index": 429,
+          "global_index": 429,
+          "type": "narration",
+          "speaker": null,
+          "text": "【教官】",
+          "raw": "【教官】"
+        },
+        {
+          "index": 430,
+          "global_index": 430,
+          "type": "narration",
+          "speaker": null,
+          "text": "「我已经联系过了，也得到了准许。",
+          "raw": "「我已经联系过了，也得到了准许。"
+        },
+        {
+          "index": 431,
+          "global_index": 431,
+          "type": "narration",
+          "speaker": null,
+          "text": "你就尽管一门心思扑在作业上就好了」",
+          "raw": "你就尽管一门心思扑在作业上就好了」"
+        },
+        {
+          "index": 432,
+          "global_index": 432,
+          "type": "narration",
+          "speaker": null,
+          "text": "手续还是办得那么天衣无缝啊。",
+          "raw": "手续还是办得那么天衣无缝啊。"
+        },
+        {
+          "index": 433,
+          "global_index": 433,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 434,
+          "global_index": 434,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "这样一来就没有后顾之忧了呢，从明天开始，就要在合宿里好好加油了哦～",
+          "raw": "「这样一来就没有后顾之忧了呢，从明天开始，就要在合宿里好好加油了哦～」"
+        },
+        {
+          "index": 435,
+          "global_index": 435,
+          "type": "narration",
+          "speaker": null,
+          "text": "姑且还是要表示一下情绪的。",
+          "raw": "姑且还是要表示一下情绪的。"
+        },
+        {
+          "index": 436,
+          "global_index": 436,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 437,
+          "global_index": 437,
+          "type": "narration",
+          "speaker": null,
+          "text": "【陽向/阳向】",
+          "raw": "【陽向/阳向】"
+        },
+        {
+          "index": 438,
+          "global_index": 438,
+          "type": "narration",
+          "speaker": null,
+          "text": "【湖景】",
+          "raw": "【湖景】"
+        },
+        {
+          "index": 439,
+          "global_index": 439,
+          "type": "narration",
+          "speaker": null,
+          "text": "【沙夜子】",
+          "raw": "【沙夜子】"
+        },
+        {
+          "index": 440,
+          "global_index": 440,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 441,
+          "global_index": 441,
+          "type": "narration",
+          "speaker": null,
+          "text": "【ガヤ/全員】",
+          "raw": "【ガヤ/全員】"
+        },
+        {
+          "index": 442,
+          "global_index": 442,
+          "type": "narration",
+          "speaker": null,
+          "text": "等详细商量明天之后需要做的事情，以及把现场收拾完毕之后，太阳已经西斜了。",
+          "raw": "等详细商量明天之后需要做的事情，以及把现场收拾完毕之后，太阳已经西斜了。"
+        },
+        {
+          "index": 443,
+          "global_index": 443,
+          "type": "narration",
+          "speaker": null,
+          "text": "茜红色的残光照进了仓库中，满是尘埃的空间里被染上了伤感的氛围。",
+          "raw": "茜红色的残光照进了仓库中，满是尘埃的空间里被染上了伤感的氛围。"
+        },
+        {
+          "index": 444,
+          "global_index": 444,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 445,
+          "global_index": 445,
+          "type": "narration",
+          "speaker": null,
+          "text": "「喂，花见。",
+          "raw": "「喂，花见。"
+        },
+        {
+          "index": 446,
+          "global_index": 446,
+          "type": "narration",
+          "speaker": null,
+          "text": "差不多该关门了，收拾好东西了吗」",
+          "raw": "差不多该关门了，收拾好东西了吗」"
+        },
+        {
+          "index": 447,
+          "global_index": 447,
+          "type": "narration",
+          "speaker": null,
+          "text": "她似乎没有听到我的声音，依然凝视着眼前的一点。",
+          "raw": "她似乎没有听到我的声音，依然凝视着眼前的一点。"
+        },
+        {
+          "index": 448,
+          "global_index": 448,
+          "type": "narration",
+          "speaker": null,
+          "text": "视线前方是由教官做好然后托付给我们的翅膀。",
+          "raw": "视线前方是由教官做好然后托付给我们的翅膀。"
+        },
+        {
+          "index": 449,
+          "global_index": 449,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 450,
+          "global_index": 450,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "花见？",
+          "raw": "「花见？」"
+        },
+        {
+          "index": 451,
+          "global_index": 451,
+          "type": "narration",
+          "speaker": null,
+          "text": "我把手挡在她眼前摆了摆。",
+          "raw": "我把手挡在她眼前摆了摆。"
+        },
+        {
+          "index": 452,
+          "global_index": 452,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 453,
+          "global_index": 453,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "…………什么事？",
+          "raw": "「…………什么事？」"
+        },
+        {
+          "index": 454,
+          "global_index": 454,
+          "type": "narration",
+          "speaker": null,
+          "text": "被她白了一眼。",
+          "raw": "被她白了一眼。"
+        },
+        {
+          "index": 455,
+          "global_index": 455,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 456,
+          "global_index": 456,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "没什么，就是，那个……你好像没听到我叫你",
+          "raw": "「没什么，就是，那个……你好像没听到我叫你」"
+        },
+        {
+          "index": 457,
+          "global_index": 457,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 458,
+          "global_index": 458,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "就算你不喊那么大声我也听得到",
+          "raw": "「就算你不喊那么大声我也听得到」"
+        },
+        {
+          "index": 459,
+          "global_index": 459,
+          "type": "narration",
+          "speaker": null,
+          "text": "她的视线重新落在了机体上。",
+          "raw": "她的视线重新落在了机体上。"
+        },
+        {
+          "index": 460,
+          "global_index": 460,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 461,
+          "global_index": 461,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "这架机体……有那么厉害吗？",
+          "raw": "「这架机体……有那么厉害吗？」"
+        },
+        {
+          "index": 462,
+          "global_index": 462,
+          "type": "narration",
+          "speaker": null,
+          "text": "就连花见这个航空界的精英都像丢了魂似的。",
+          "raw": "就连花见这个航空界的精英都像丢了魂似的。"
+        },
+        {
+          "index": 463,
+          "global_index": 463,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 464,
+          "global_index": 464,
+          "type": "narration",
+          "speaker": null,
+          "text": "「……是啊。",
+          "raw": "「……是啊。"
+        },
+        {
+          "index": 465,
+          "global_index": 465,
+          "type": "narration",
+          "speaker": null,
+          "text": "我做梦都没想到能在这个地方见到这架机体」",
+          "raw": "我做梦都没想到能在这个地方见到这架机体」"
+        },
+        {
+          "index": 466,
+          "global_index": 466,
+          "type": "narration",
+          "speaker": null,
+          "text": "她的语气听起来就像是做着梦陶醉其中的少女。",
+          "raw": "她的语气听起来就像是做着梦陶醉其中的少女。"
+        },
+        {
+          "index": 467,
+          "global_index": 467,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 468,
+          "global_index": 468,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……如果可以的话，我真想自己担任驾驶员去驾驶它飞行啊",
+          "raw": "「……如果可以的话，我真想自己担任驾驶员去驾驶它飞行啊」"
+        },
+        {
+          "index": 469,
+          "global_index": 469,
+          "type": "narration",
+          "speaker": null,
+          "text": "花见耸了耸肩。",
+          "raw": "花见耸了耸肩。"
+        },
+        {
+          "index": 470,
+          "global_index": 470,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 471,
+          "global_index": 471,
+          "type": "narration",
+          "speaker": null,
+          "text": "「你那是什么表情啊，肯定是开玩笑的嘛。",
+          "raw": "「你那是什么表情啊，肯定是开玩笑的嘛。"
+        },
+        {
+          "index": 472,
+          "global_index": 472,
+          "type": "narration",
+          "speaker": null,
+          "text": "我会完成自己的职责。空太你也得好好完成自己的工作啊」",
+          "raw": "我会完成自己的职责。空太你也得好好完成自己的工作啊」"
+        },
+        {
+          "index": 473,
+          "global_index": 473,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 474,
+          "global_index": 474,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "好好好……",
+          "raw": "「好好好……」"
+        },
+        {
+          "index": 475,
+          "global_index": 475,
+          "type": "narration",
+          "speaker": null,
+          "text": "花见把一瞬间流露出的感伤余韵打消之后，又回到了平常的样子。",
+          "raw": "花见把一瞬间流露出的感伤余韵打消之后，又回到了平常的样子。"
+        },
+        {
+          "index": 476,
+          "global_index": 476,
+          "type": "narration",
+          "speaker": null,
+          "text": "【朋夏】",
+          "raw": "【朋夏】"
+        },
+        {
+          "index": 477,
+          "global_index": 477,
+          "type": "narration",
+          "speaker": null,
+          "text": "「喂，要回去了哦～。",
+          "raw": "「喂，要回去了哦～。"
+        },
+        {
+          "index": 478,
+          "global_index": 478,
+          "type": "narration",
+          "speaker": null,
+          "text": "空太，花见同学！」",
+          "raw": "空太，花见同学！」"
+        },
+        {
+          "index": 479,
+          "global_index": 479,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 480,
+          "global_index": 480,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "好了……回去吧，花见",
+          "raw": "「好了……回去吧，花见」"
+        },
+        {
+          "index": 481,
+          "global_index": 481,
+          "type": "narration",
+          "speaker": null,
+          "text": "【麻里矢】",
+          "raw": "【麻里矢】"
+        },
+        {
+          "index": 482,
+          "global_index": 482,
+          "type": "narration",
+          "speaker": null,
+          "text": "漫长的一天，终于结束了。",
+          "raw": "漫长的一天，终于结束了。"
+        },
+        {
+          "index": 483,
+          "global_index": 483,
+          "type": "narration",
+          "speaker": null,
+          "text": "今天提早来到了教室。",
+          "raw": "今天提早来到了教室。"
+        },
+        {
+          "index": 484,
+          "global_index": 484,
+          "type": "narration",
+          "speaker": null,
+          "text": "我喜欢在还没有多少同学过来的教室里悠闲地打发时间。",
+          "raw": "我喜欢在还没有多少同学过来的教室里悠闲地打发时间。"
+        },
+        {
+          "index": 485,
+          "global_index": 485,
+          "type": "narration",
+          "speaker": null,
+          "text": "随着时间的经过，人也渐渐增多。",
+          "raw": "随着时间的经过，人也渐渐增多。"
+        },
+        {
+          "index": 486,
+          "global_index": 486,
+          "type": "narration",
+          "speaker": null,
+          "text": "特别是到了运动社团结束晨练的时候，就更加热闹了。",
+          "raw": "特别是到了运动社团结束晨练的时候，就更加热闹了。"
+        },
+        {
+          "index": 487,
+          "global_index": 487,
+          "type": "narration",
+          "speaker": null,
+          "text": "我一边感受着早晨特有的喧闹，一边漫不经心地坐在自己的位置上。",
+          "raw": "我一边感受着早晨特有的喧闹，一边漫不经心地坐在自己的位置上。"
+        },
+        {
+          "index": 488,
+          "global_index": 488,
+          "type": "narration",
+          "speaker": null,
+          "text": "但，这并不是因为我懒散。",
+          "raw": "但，这并不是因为我懒散。"
+        },
+        {
+          "index": 489,
+          "global_index": 489,
+          "type": "narration",
+          "speaker": null,
+          "text": "呵呵呵……这其实是一种特训！",
+          "raw": "呵呵呵……这其实是一种特训！"
+        },
+        {
+          "index": 490,
+          "global_index": 490,
+          "type": "narration",
+          "speaker": null,
+          "text": "是生活在忙碌的现代之中的人们始终无法理解的、十分深远的生活方式。",
+          "raw": "是生活在忙碌的现代之中的人们始终无法理解的、十分深远的生活方式。"
+        },
+        {
+          "index": 491,
+          "global_index": 491,
+          "type": "narration",
+          "speaker": null,
+          "text": "要用三两句话将这种看似无意义的行为当中潜藏的意义解释清楚，是非常难的――应该说，不可能。",
+          "raw": "要用三两句话将这种看似无意义的行为当中潜藏的意义解释清楚，是非常难的――应该说，不可能。"
+        },
+        {
+          "index": 492,
+          "global_index": 492,
+          "type": "narration",
+          "speaker": null,
+          "text": "也就是说，这只有我能理解，并有一定的哲学性。",
+          "raw": "也就是说，这只有我能理解，并有一定的哲学性。"
+        },
+        {
+          "index": 493,
+          "global_index": 493,
+          "type": "narration",
+          "speaker": null,
+          "text": "只要置身于安静的教室，就要接受周围一点点地吵闹起来的情景。",
+          "raw": "只要置身于安静的教室，就要接受周围一点点地吵闹起来的情景。"
+        },
+        {
+          "index": 494,
+          "global_index": 494,
+          "type": "narration",
+          "speaker": null,
+          "text": "沉浸在教室这种从寂静到喧嚣的气氛之中，逐渐积攒起用于上课听讲的力气，是一种非常崇高的修行。",
+          "raw": "沉浸在教室这种从寂静到喧嚣的气氛之中，逐渐积攒起用于上课听讲的力气，是一种非常崇高的修行。"
+        },
+        {
+          "index": 495,
+          "global_index": 495,
+          "type": "narration",
+          "speaker": null,
+          "text": "糟糕，我都快迷上自己了。",
+          "raw": "糟糕，我都快迷上自己了。"
+        },
+        {
+          "index": 496,
+          "global_index": 496,
+          "type": "narration",
+          "speaker": null,
+          "text": "哎呀～，真是头疼呢。",
+          "raw": "哎呀～，真是头疼呢。"
+        },
+        {
+          "index": 497,
+          "global_index": 497,
+          "type": "narration",
+          "speaker": null,
+          "text": "要提醒遇到的人不要迷上我才行。",
+          "raw": "要提醒遇到的人不要迷上我才行。"
+        },
+        {
+          "index": 498,
+          "global_index": 498,
+          "type": "narration",
+          "speaker": null,
+          "text": "对了，就对接下来遇到的人警告说「别迷上我了哦」好了。",
+          "raw": "对了，就对接下来遇到的人警告说「别迷上我了哦」好了。"
+        },
+        {
+          "index": 499,
+          "global_index": 499,
+          "type": "narration",
+          "speaker": null,
+          "text": "我真是太亲切啦。",
+          "raw": "我真是太亲切啦。"
+        },
+        {
+          "index": 500,
+          "global_index": 500,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 501,
+          "global_index": 501,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "哦哦，亲爱的吾友哟，祝贺你今天也平安无事地上学来了",
+          "raw": "「哦哦，亲爱的吾友哟，祝贺你今天也平安无事地上学来了」"
+        },
+        {
+          "index": 502,
+          "global_index": 502,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 503,
+          "global_index": 503,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "别迷上我了哦",
+          "raw": "「别迷上我了哦」"
+        },
+        {
+          "index": 504,
+          "global_index": 504,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 505,
+          "global_index": 505,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……什、么……？",
+          "raw": "「……什、么……？」"
+        },
+        {
+          "index": 506,
+          "global_index": 506,
+          "type": "narration",
+          "speaker": null,
+          "text": "上村慌了。",
+          "raw": "上村慌了。"
+        },
+        {
+          "index": 507,
+          "global_index": 507,
+          "type": "narration",
+          "speaker": null,
+          "text": "那家伙少见的态度，让我不禁噗嗤一笑。",
+          "raw": "那家伙少见的态度，让我不禁噗嗤一笑。"
+        },
+        {
+          "index": 508,
+          "global_index": 508,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 509,
+          "global_index": 509,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "虽然不知道你为什么要这么说，但我姑且回答说‘不会的’吧",
+          "raw": "「虽然不知道你为什么要这么说，但我姑且回答说‘不会的’吧」"
+        },
+        {
+          "index": 510,
+          "global_index": 510,
+          "type": "narration",
+          "speaker": null,
+          "text": "上村推了推眼镜框说道。",
+          "raw": "上村推了推眼镜框说道。"
+        },
+        {
+          "index": 511,
+          "global_index": 511,
+          "type": "narration",
+          "speaker": null,
+          "text": "感觉在精神上胜利了啊。",
+          "raw": "感觉在精神上胜利了啊。"
+        },
+        {
+          "index": 512,
+          "global_index": 512,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 513,
+          "global_index": 513,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "那就",
+          "raw": "「那就」"
+        },
+        {
+          "index": 514,
+          "global_index": 514,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 515,
+          "global_index": 515,
+          "type": "narration",
+          "speaker": null,
+          "text": "「嗯……先不说这个了。",
+          "raw": "「嗯……先不说这个了。"
+        },
+        {
+          "index": 516,
+          "global_index": 516,
+          "type": "narration",
+          "speaker": null,
+          "text": "我听到了一些传闻，那是真的吗？　My friend」",
+          "raw": "我听到了一些传闻，那是真的吗？　My friend」"
+        },
+        {
+          "index": 517,
+          "global_index": 517,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 518,
+          "global_index": 518,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "嗯，是什么传闻？",
+          "raw": "「嗯，是什么传闻？」"
+        },
+        {
+          "index": 519,
+          "global_index": 519,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 520,
+          "global_index": 520,
+          "type": "narration",
+          "speaker": null,
+          "text": "「的委员长阁下似乎毫不吝啬地称赞了平山你。",
+          "raw": "「的委员长阁下似乎毫不吝啬地称赞了平山你。"
+        },
+        {
+          "index": 521,
+          "global_index": 521,
+          "type": "narration",
+          "speaker": null,
+          "text": "那是事实吗？」",
+          "raw": "那是事实吗？」"
+        },
+        {
+          "index": 522,
+          "global_index": 522,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 523,
+          "global_index": 523,
+          "type": "narration",
+          "speaker": null,
+          "text": "什么情况。",
+          "raw": "什么情况。"
+        },
+        {
+          "index": 524,
+          "global_index": 524,
+          "type": "narration",
+          "speaker": null,
+          "text": "我本人可是一点都不记得有这种事喔？",
+          "raw": "我本人可是一点都不记得有这种事喔？"
+        },
+        {
+          "index": 525,
+          "global_index": 525,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 526,
+          "global_index": 526,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "虽然传闻是了，但其中的一半也是正确的，那就是你得到了委员长的信赖和称赞",
+          "raw": "「虽然传闻是了，但其中的一半也是正确的，那就是你得到了委员长的信赖和称赞」"
+        },
+        {
+          "index": 527,
+          "global_index": 527,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 528,
+          "global_index": 528,
+          "type": "narration",
+          "speaker": null,
+          "text": "「不，我一点印象都没有啊。",
+          "raw": "「不，我一点印象都没有啊。"
+        },
+        {
+          "index": 529,
+          "global_index": 529,
+          "type": "narration",
+          "speaker": null,
+          "text": "完全搞不懂」",
+          "raw": "完全搞不懂」"
+        },
+        {
+          "index": 530,
+          "global_index": 530,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 531,
+          "global_index": 531,
+          "type": "narration",
+          "speaker": null,
+          "text": "「嗯。吗？",
+          "raw": "「嗯。吗？"
+        },
+        {
+          "index": 532,
+          "global_index": 532,
+          "type": "dialogue",
+          "speaker": "明明空太你唯独不懂",
+          "text": "『揣着明白装糊涂』这种技能的？」",
+          "raw": "明明空太你唯独不懂『揣着明白装糊涂』这种技能的？」"
+        },
+        {
+          "index": 533,
+          "global_index": 533,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 534,
+          "global_index": 534,
+          "type": "narration",
+          "speaker": null,
+          "text": "「别说这么无聊的事情啊。",
+          "raw": "「别说这么无聊的事情啊。"
+        },
+        {
+          "index": 535,
+          "global_index": 535,
+          "type": "narration",
+          "speaker": null,
+          "text": "我是真的不知道」",
+          "raw": "我是真的不知道」"
+        },
+        {
+          "index": 536,
+          "global_index": 536,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 537,
+          "global_index": 537,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "唔，看来你还是挺难对付的",
+          "raw": "「唔，看来你还是挺难对付的」"
+        },
+        {
+          "index": 538,
+          "global_index": 538,
+          "type": "narration",
+          "speaker": null,
+          "text": "上村似乎自顾自地有了别的理解。",
+          "raw": "上村似乎自顾自地有了别的理解。"
+        },
+        {
+          "index": 539,
+          "global_index": 539,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 540,
+          "global_index": 540,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "再说了，就算那是事实，那为什么上村会知道啊",
+          "raw": "「再说了，就算那是事实，那为什么上村会知道啊」"
+        },
+        {
+          "index": 541,
+          "global_index": 541,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 542,
+          "global_index": 542,
+          "type": "narration",
+          "speaker": null,
+          "text": "「嗯，问得好，nice question。",
+          "raw": "「嗯，问得好，nice question。"
+        },
+        {
+          "index": 543,
+          "global_index": 543,
+          "type": "narration",
+          "speaker": null,
+          "text": "答案只有一个」",
+          "raw": "答案只有一个」"
+        },
+        {
+          "index": 544,
+          "global_index": 544,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 545,
+          "global_index": 545,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "别卖关子啦",
+          "raw": "「别卖关子啦」"
+        },
+        {
+          "index": 546,
+          "global_index": 546,
+          "type": "narration",
+          "speaker": null,
+          "text": "这家伙就像花样滑冰选手一样原地转了三圈，定住身形之后猛地用手指指着我。",
+          "raw": "这家伙就像花样滑冰选手一样原地转了三圈，定住身形之后猛地用手指指着我。"
+        },
+        {
+          "index": 547,
+          "global_index": 547,
+          "type": "narration",
+          "speaker": null,
+          "text": "怎样都好啦，别用手指指着别人啊。",
+          "raw": "怎样都好啦，别用手指指着别人啊。"
+        },
+        {
+          "index": 548,
+          "global_index": 548,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 549,
+          "global_index": 549,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "那是因为，平山和委员长之间的关系已经被传到街知巷闻了！",
+          "raw": "「那是因为，平山和委员长之间的关系已经被传到街知巷闻了！」"
+        },
+        {
+          "index": 550,
+          "global_index": 550,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 551,
+          "global_index": 551,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "你你你你说什么～！",
+          "raw": "「你你你你说什么～！」"
+        },
+        {
+          "index": 552,
+          "global_index": 552,
+          "type": "narration",
+          "speaker": null,
+          "text": "真是冲击性的事实。",
+          "raw": "真是冲击性的事实。"
+        },
+        {
+          "index": 553,
+          "global_index": 553,
+          "type": "narration",
+          "speaker": null,
+          "text": "连我都忍不住吃了一惊。",
+          "raw": "连我都忍不住吃了一惊。"
+        },
+        {
+          "index": 554,
+          "global_index": 554,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 555,
+          "global_index": 555,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "现在这个热点新闻，说是已经传遍大街小巷也不为过了",
+          "raw": "「现在这个热点新闻，说是已经传遍大街小巷也不为过了」"
+        },
+        {
+          "index": 556,
+          "global_index": 556,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 557,
+          "global_index": 557,
+          "type": "narration",
+          "speaker": null,
+          "text": "「不是吧！",
+          "raw": "「不是吧！"
+        },
+        {
+          "index": 558,
+          "global_index": 558,
+          "type": "narration",
+          "speaker": null,
+          "text": "而且还是过去式！」",
+          "raw": "而且还是过去式！」"
+        },
+        {
+          "index": 559,
+          "global_index": 559,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 560,
+          "global_index": 560,
+          "type": "narration",
+          "speaker": null,
+          "text": "「啊啊，没错！　简直是写作‘真心’读作‘认真’那么真！",
+          "raw": "「啊啊，没错！　简直是写作‘真心’读作‘认真’那么真！"
+        },
+        {
+          "index": 561,
+          "global_index": 561,
+          "type": "narration",
+          "speaker": null,
+          "text": "但是要注意啊，吾友！",
+          "raw": "但是要注意啊，吾友！"
+        },
+        {
+          "index": 562,
+          "global_index": 562,
+          "type": "dialogue",
+          "speaker": "就算说是",
+          "text": "『肥皂』，也不是用来洗身子的！」",
+          "raw": "就算说是『肥皂』，也不是用来洗身子的！」"
+        },
+        {
+          "index": 563,
+          "global_index": 563,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 564,
+          "global_index": 564,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "不是当然的吗。『肥皂』只是在体育祭的时候戴的！",
+          "raw": "「不是当然的吗。『肥皂』只是在体育祭的时候戴的！」"
+        },
+        {
+          "index": 565,
+          "global_index": 565,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 566,
+          "global_index": 566,
+          "type": "narration",
+          "speaker": null,
+          "text": "「唔，那不是『号码布』吗？」（‘ゼッケン’和‘ゼッケン’只差了一个浊音点，但意思完全不同。）",
+          "raw": "「唔，那不是『号码布』吗？」（‘ゼッケン’和‘ゼッケン’只差了一个浊音点，但意思完全不同。）"
+        },
+        {
+          "index": 567,
+          "global_index": 567,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 568,
+          "global_index": 568,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "唔哦，糟糕了！",
+          "raw": "「唔哦，糟糕了！」"
+        },
+        {
+          "index": 569,
+          "global_index": 569,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 570,
+          "global_index": 570,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "呵，是我赢了呢，平山",
+          "raw": "「呵，是我赢了呢，平山」"
+        },
+        {
+          "index": 571,
+          "global_index": 571,
+          "type": "narration",
+          "speaker": null,
+          "text": "大意了啊。",
+          "raw": "大意了啊。"
+        },
+        {
+          "index": 572,
+          "global_index": 572,
+          "type": "narration",
+          "speaker": null,
+          "text": "上村还真是个不错的卖蠢角色。",
+          "raw": "上村还真是个不错的卖蠢角色。"
+        },
+        {
+          "index": 573,
+          "global_index": 573,
+          "type": "narration",
+          "speaker": null,
+          "text": "也经常展示出这样的逗哏技能。",
+          "raw": "也经常展示出这样的逗哏技能。"
+        },
+        {
+          "index": 574,
+          "global_index": 574,
+          "type": "narration",
+          "speaker": null,
+          "text": "不过说到底，我的笑点也挺那啥的……但到目前为止都陷入了艰苦的战斗之中。",
+          "raw": "不过说到底，我的笑点也挺那啥的……但到目前为止都陷入了艰苦的战斗之中。"
+        },
+        {
+          "index": 575,
+          "global_index": 575,
+          "type": "narration",
+          "speaker": null,
+          "text": "而我也静静地等待着终将跟这家伙决战的时刻。",
+          "raw": "而我也静静地等待着终将跟这家伙决战的时刻。"
+        },
+        {
+          "index": 576,
+          "global_index": 576,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 577,
+          "global_index": 577,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "不过说起来，我的传闻都传遍大街了啊……",
+          "raw": "「不过说起来，我的传闻都传遍大街了啊……」"
+        },
+        {
+          "index": 578,
+          "global_index": 578,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 579,
+          "global_index": 579,
+          "type": "narration",
+          "speaker": null,
+          "text": "「不，正确地说，是委员长顺带着你。",
+          "raw": "「不，正确地说，是委员长顺带着你。"
+        },
+        {
+          "index": 580,
+          "global_index": 580,
+          "type": "narration",
+          "speaker": null,
+          "text": "说到知名度，执行委员长要高不少，这也是众所周知的了」",
+          "raw": "说到知名度，执行委员长要高不少，这也是众所周知的了」"
+        },
+        {
+          "index": 581,
+          "global_index": 581,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 582,
+          "global_index": 582,
+          "type": "narration",
+          "speaker": null,
+          "text": "「果然是这样吗。",
+          "raw": "「果然是这样吗。"
+        },
+        {
+          "index": 583,
+          "global_index": 583,
+          "type": "narration",
+          "speaker": null,
+          "text": "就觉得不会有这种好事」",
+          "raw": "就觉得不会有这种好事」"
+        },
+        {
+          "index": 584,
+          "global_index": 584,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 585,
+          "global_index": 585,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "还没完哦，平山",
+          "raw": "「还没完哦，平山」"
+        },
+        {
+          "index": 586,
+          "global_index": 586,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 587,
+          "global_index": 587,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "不过‘传遍大街小巷’是假的吧？",
+          "raw": "「不过‘传遍大街小巷’是假的吧？」"
+        },
+        {
+          "index": 588,
+          "global_index": 588,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 589,
+          "global_index": 589,
+          "type": "narration",
+          "speaker": null,
+          "text": "我被笑点之神引进坑里了。",
+          "raw": "我被笑点之神引进坑里了。"
+        },
+        {
+          "index": 590,
+          "global_index": 590,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 591,
+          "global_index": 591,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "在学校里可是引发了相当大的话题啊",
+          "raw": "「在学校里可是引发了相当大的话题啊」"
+        },
+        {
+          "index": 592,
+          "global_index": 592,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 593,
+          "global_index": 593,
+          "type": "narration",
+          "speaker": null,
+          "text": "「哎呀哎呀。",
+          "raw": "「哎呀哎呀。"
+        },
+        {
+          "index": 594,
+          "global_index": 594,
+          "type": "narration",
+          "speaker": null,
+          "text": "执行委员长真是有名气啊」",
+          "raw": "执行委员长真是有名气啊」"
+        },
+        {
+          "index": 595,
+          "global_index": 595,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 596,
+          "global_index": 596,
+          "type": "narration",
+          "speaker": null,
+          "text": "「当然了。",
+          "raw": "「当然了。"
+        },
+        {
+          "index": 597,
+          "global_index": 597,
+          "type": "narration",
+          "speaker": null,
+          "text": "这样的话题人物相关的故事，从没有被我听漏过」",
+          "raw": "这样的话题人物相关的故事，从没有被我听漏过」"
+        },
+        {
+          "index": 598,
+          "global_index": 598,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 599,
+          "global_index": 599,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "真是个不可小觑的家伙啊……",
+          "raw": "「真是个不可小觑的家伙啊……」"
+        },
+        {
+          "index": 600,
+          "global_index": 600,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 601,
+          "global_index": 601,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "但即便是被委员长表扬了，也不等同于宇宙科学会解散的就解除了",
+          "raw": "「但即便是被委员长表扬了，也不等同于宇宙科学会解散的就解除了」"
+        },
+        {
+          "index": 602,
+          "global_index": 602,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 603,
+          "global_index": 603,
+          "type": "narration",
+          "speaker": null,
+          "text": "被说到痛处了。",
+          "raw": "被说到痛处了。"
+        },
+        {
+          "index": 604,
+          "global_index": 604,
+          "type": "narration",
+          "speaker": null,
+          "text": "上村说得没错。",
+          "raw": "上村说得没错。"
+        },
+        {
+          "index": 605,
+          "global_index": 605,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 606,
+          "global_index": 606,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "有空关心流言的出处，还不如去考虑考虑自己所属的太阳系占星术学会的事情吧？",
+          "raw": "「有空关心流言的出处，还不如去考虑考虑自己所属的太阳系占星术学会的事情吧？」"
+        },
+        {
+          "index": 607,
+          "global_index": 607,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 608,
+          "global_index": 608,
+          "type": "narration",
+          "speaker": null,
+          "text": "「是宇宙科学会。",
+          "raw": "「是宇宙科学会。"
+        },
+        {
+          "index": 609,
+          "global_index": 609,
+          "type": "narration",
+          "speaker": null,
+          "text": "才不是你说的那种怪异集团呢」",
+          "raw": "才不是你说的那种怪异集团呢」"
+        },
+        {
+          "index": 610,
+          "global_index": 610,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 611,
+          "global_index": 611,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "‘宇宙科学会’这个名字听起来也够怪的了",
+          "raw": "「‘宇宙科学会’这个名字听起来也够怪的了」"
+        },
+        {
+          "index": 612,
+          "global_index": 612,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 613,
+          "global_index": 613,
+          "type": "narration",
+          "speaker": null,
+          "text": "「不不不，并没有很奇怪好吗。",
+          "raw": "「不不不，并没有很奇怪好吗。"
+        },
+        {
+          "index": 614,
+          "global_index": 614,
+          "type": "narration",
+          "speaker": null,
+          "text": "在真实的宇宙中使用真实的技术……没错，也就是爱着地球科学的学会」",
+          "raw": "在真实的宇宙中使用真实的技术……没错，也就是爱着地球科学的学会」"
+        },
+        {
+          "index": 615,
+          "global_index": 615,
+          "type": "narration",
+          "speaker": null,
+          "text": "【上村】",
+          "raw": "【上村】"
+        },
+        {
+          "index": 616,
+          "global_index": 616,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "我的意思是，你倒是更关心自己那个认真的学会到底会怎样行不",
+          "raw": "「我的意思是，你倒是更关心自己那个认真的学会到底会怎样行不」"
+        },
+        {
+          "index": 617,
+          "global_index": 617,
+          "type": "narration",
+          "speaker": null,
+          "text": "【空太】",
+          "raw": "【空太】"
+        },
+        {
+          "index": 618,
+          "global_index": 618,
+          "type": "dialogue",
+          "speaker": null,
+          "text": "……也是啊",
+          "raw": "「……也是啊」"
+        },
+        {
+          "index": 619,
+          "global_index": 619,
+          "type": "narration",
+          "speaker": null,
+          "text": "上村说了再正确不过的话。",
+          "raw": "上村说了再正确不过的话。"
+        },
+        {
+          "index": 620,
+          "global_index": 620,
+          "type": "narration",
+          "speaker": null,
+          "text": "我无话可反驳……。",
+          "raw": "我无话可反驳……。"
+        }
+      ]
+    }
+  ]
+}

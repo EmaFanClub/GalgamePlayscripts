@@ -1,0 +1,3807 @@
+{
+  "schema_version": "1.0.0",
+  "metadata": {
+    "title": "神咒神威神楽 曙之光",
+    "full_name": "Kajiri Kamui Kagura",
+    "language": "zh-CN",
+    "source_url": "https://raw.githubusercontent.com/m-rui001/galgame-script-corpus/main/Zh/%E7%A5%9E%E5%92%92%E7%A5%9E%E5%A8%81%E7%A5%9E%E6%A5%BD%20%E6%9B%99%E4%B9%8B%E5%85%89%20%5B%E4%B8%AD%E6%97%A5%E5%AF%B9%E7%85%A7%5D.txt",
+    "scene_count": 1,
+    "line_count": 472,
+    "character_list": [],
+    "stats": {
+      "dialogue_count": 0,
+      "monologue_count": 0,
+      "narration_count": 472,
+      "choice_count": 0,
+      "transition_count": 0
+    }
+  },
+  "scenes": [
+    {
+      "scene_id": "scene_001",
+      "title": "神咒神威神楽 曙之光",
+      "setting_time": "",
+      "order": 1,
+      "line_count": 472,
+      "characters": [],
+      "lines": [
+        {
+          "index": 1,
+          "global_index": 1,
+          "type": "narration",
+          "speaker": null,
+          "text": "旧世界の知識を持っている",
+          "raw": "旧世界の知識を持っている"
+        },
+        {
+          "index": 2,
+          "global_index": 2,
+          "type": "narration",
+          "speaker": null,
+          "text": "拥有旧世界的知识",
+          "raw": "拥有旧世界的知识"
+        },
+        {
+          "index": 3,
+          "global_index": 3,
+          "type": "narration",
+          "speaker": null,
+          "text": "旧世界の知識を持っていない",
+          "raw": "旧世界の知識を持っていない"
+        },
+        {
+          "index": 4,
+          "global_index": 4,
+          "type": "narration",
+          "speaker": null,
+          "text": "没有旧世界的知识",
+          "raw": "没有旧世界的知识"
+        },
+        {
+          "index": 5,
+          "global_index": 5,
+          "type": "narration",
+          "speaker": null,
+          "text": "場面跳ばし機能を使用する",
+          "raw": "場面跳ばし機能を使用する"
+        },
+        {
+          "index": 6,
+          "global_index": 6,
+          "type": "narration",
+          "speaker": null,
+          "text": "使用场景跳过功能",
+          "raw": "使用场景跳过功能"
+        },
+        {
+          "index": 7,
+          "global_index": 7,
+          "type": "narration",
+          "speaker": null,
+          "text": "場面跳ばし機能を使用しない",
+          "raw": "場面跳ばし機能を使用しない"
+        },
+        {
+          "index": 8,
+          "global_index": 8,
+          "type": "narration",
+          "speaker": null,
+          "text": "不使用场景跳过功能",
+          "raw": "不使用场景跳过功能"
+        },
+        {
+          "index": 9,
+          "global_index": 9,
+          "type": "narration",
+          "speaker": null,
+          "text": "ここで退くのは格好悪い",
+          "raw": "ここで退くのは格好悪い"
+        },
+        {
+          "index": 10,
+          "global_index": 10,
+          "type": "narration",
+          "speaker": null,
+          "text": "在这里退下很逊",
+          "raw": "在这里退下很逊"
+        },
+        {
+          "index": 11,
+          "global_index": 11,
+          "type": "narration",
+          "speaker": null,
+          "text": "挑発に乗るほうが格好悪い",
+          "raw": "挑発に乗るほうが格好悪い"
+        },
+        {
+          "index": 12,
+          "global_index": 12,
+          "type": "narration",
+          "speaker": null,
+          "text": "中挑衅更逊",
+          "raw": "中挑衅更逊"
+        },
+        {
+          "index": 13,
+          "global_index": 13,
+          "type": "narration",
+          "speaker": null,
+          "text": "世界の真理に至る者",
+          "raw": "世界の真理に至る者"
+        },
+        {
+          "index": 14,
+          "global_index": 14,
+          "type": "narration",
+          "speaker": null,
+          "text": "到达世界真理之人",
+          "raw": "到达世界真理之人"
+        },
+        {
+          "index": 15,
+          "global_index": 15,
+          "type": "narration",
+          "speaker": null,
+          "text": "己が求道を貫く者",
+          "raw": "己が求道を貫く者"
+        },
+        {
+          "index": 16,
+          "global_index": 16,
+          "type": "narration",
+          "speaker": null,
+          "text": "贯彻自己求道之人",
+          "raw": "贯彻自己求道之人"
+        },
+        {
+          "index": 17,
+          "global_index": 17,
+          "type": "narration",
+          "speaker": null,
+          "text": "逃れえぬ因果の縛りに抗う者",
+          "raw": "逃れえぬ因果の縛りに抗う者"
+        },
+        {
+          "index": 18,
+          "global_index": 18,
+          "type": "narration",
+          "speaker": null,
+          "text": "反抗无法逃避的因果之人",
+          "raw": "反抗无法逃避的因果之人"
+        },
+        {
+          "index": 19,
+          "global_index": 19,
+          "type": "narration",
+          "speaker": null,
+          "text": "新たな世界を生みだす者",
+          "raw": "新たな世界を生みだす者"
+        },
+        {
+          "index": 20,
+          "global_index": 20,
+          "type": "narration",
+          "speaker": null,
+          "text": "创造新世界之人",
+          "raw": "创造新世界之人"
+        },
+        {
+          "index": 21,
+          "global_index": 21,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月・秀真】を見る",
+          "raw": "【極月・秀真】を見る"
+        },
+        {
+          "index": 22,
+          "global_index": 22,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月·秀真】观看",
+          "raw": "【極月·秀真】观看"
+        },
+        {
+          "index": 23,
+          "global_index": 23,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 24,
+          "global_index": 24,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 25,
+          "global_index": 25,
+          "type": "narration",
+          "speaker": null,
+          "text": "ここで退くのは格好悪い",
+          "raw": "ここで退くのは格好悪い"
+        },
+        {
+          "index": 26,
+          "global_index": 26,
+          "type": "narration",
+          "speaker": null,
+          "text": "在这里退下很逊",
+          "raw": "在这里退下很逊"
+        },
+        {
+          "index": 27,
+          "global_index": 27,
+          "type": "narration",
+          "speaker": null,
+          "text": "挑発に乗るほうが格好悪い",
+          "raw": "挑発に乗るほうが格好悪い"
+        },
+        {
+          "index": 28,
+          "global_index": 28,
+          "type": "narration",
+          "speaker": null,
+          "text": "中挑衅更逊",
+          "raw": "中挑衅更逊"
+        },
+        {
+          "index": 29,
+          "global_index": 29,
+          "type": "narration",
+          "speaker": null,
+          "text": "【ここで退くのは格好悪い】を見る",
+          "raw": "【ここで退くのは格好悪い】を見る"
+        },
+        {
+          "index": 30,
+          "global_index": 30,
+          "type": "narration",
+          "speaker": null,
+          "text": "【在这里退下很逊】观看",
+          "raw": "【在这里退下很逊】观看"
+        },
+        {
+          "index": 31,
+          "global_index": 31,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 32,
+          "global_index": 32,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 33,
+          "global_index": 33,
+          "type": "narration",
+          "speaker": null,
+          "text": "【挑発に乗るほうが格好悪い】を見る",
+          "raw": "【挑発に乗るほうが格好悪い】を見る"
+        },
+        {
+          "index": 34,
+          "global_index": 34,
+          "type": "narration",
+          "speaker": null,
+          "text": "【中挑衅更逊】观看",
+          "raw": "【中挑衅更逊】观看"
+        },
+        {
+          "index": 35,
+          "global_index": 35,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 36,
+          "global_index": 36,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 37,
+          "global_index": 37,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月・秀真・選択肢後】を見る",
+          "raw": "【極月・秀真・選択肢後】を見る"
+        },
+        {
+          "index": 38,
+          "global_index": 38,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月·秀真·选项后】观看",
+          "raw": "【極月·秀真·选项后】观看"
+        },
+        {
+          "index": 39,
+          "global_index": 39,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 40,
+          "global_index": 40,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 41,
+          "global_index": 41,
+          "type": "narration",
+          "speaker": null,
+          "text": "【睦月・秀真】を見る",
+          "raw": "【睦月・秀真】を見る"
+        },
+        {
+          "index": 42,
+          "global_index": 42,
+          "type": "narration",
+          "speaker": null,
+          "text": "【睦月·秀真】观看",
+          "raw": "【睦月·秀真】观看"
+        },
+        {
+          "index": 43,
+          "global_index": 43,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 44,
+          "global_index": 44,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 45,
+          "global_index": 45,
+          "type": "narration",
+          "speaker": null,
+          "text": "世界の真理に至る者",
+          "raw": "世界の真理に至る者"
+        },
+        {
+          "index": 46,
+          "global_index": 46,
+          "type": "narration",
+          "speaker": null,
+          "text": "到达世界真理之人",
+          "raw": "到达世界真理之人"
+        },
+        {
+          "index": 47,
+          "global_index": 47,
+          "type": "narration",
+          "speaker": null,
+          "text": "己が求道を貫く者",
+          "raw": "己が求道を貫く者"
+        },
+        {
+          "index": 48,
+          "global_index": 48,
+          "type": "narration",
+          "speaker": null,
+          "text": "贯彻自己求道之人",
+          "raw": "贯彻自己求道之人"
+        },
+        {
+          "index": 49,
+          "global_index": 49,
+          "type": "narration",
+          "speaker": null,
+          "text": "逃れえぬ因果の縛りに抗う者",
+          "raw": "逃れえぬ因果の縛りに抗う者"
+        },
+        {
+          "index": 50,
+          "global_index": 50,
+          "type": "narration",
+          "speaker": null,
+          "text": "反抗无法逃避的因果之人",
+          "raw": "反抗无法逃避的因果之人"
+        },
+        {
+          "index": 51,
+          "global_index": 51,
+          "type": "narration",
+          "speaker": null,
+          "text": "新たな世界を生みだす者",
+          "raw": "新たな世界を生みだす者"
+        },
+        {
+          "index": 52,
+          "global_index": 52,
+          "type": "narration",
+          "speaker": null,
+          "text": "创造新世界之人",
+          "raw": "创造新世界之人"
+        },
+        {
+          "index": 53,
+          "global_index": 53,
+          "type": "narration",
+          "speaker": null,
+          "text": "【世界の真理に至る者】を見る",
+          "raw": "【世界の真理に至る者】を見る"
+        },
+        {
+          "index": 54,
+          "global_index": 54,
+          "type": "narration",
+          "speaker": null,
+          "text": "【到达世界真理之人】观看",
+          "raw": "【到达世界真理之人】观看"
+        },
+        {
+          "index": 55,
+          "global_index": 55,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 56,
+          "global_index": 56,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 57,
+          "global_index": 57,
+          "type": "narration",
+          "speaker": null,
+          "text": "【己が求道を貫く者】を見る",
+          "raw": "【己が求道を貫く者】を見る"
+        },
+        {
+          "index": 58,
+          "global_index": 58,
+          "type": "narration",
+          "speaker": null,
+          "text": "【贯彻自己求道之人】观看",
+          "raw": "【贯彻自己求道之人】观看"
+        },
+        {
+          "index": 59,
+          "global_index": 59,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 60,
+          "global_index": 60,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 61,
+          "global_index": 61,
+          "type": "narration",
+          "speaker": null,
+          "text": "【逃れえぬ因果の縛りに抗う者】を見る",
+          "raw": "【逃れえぬ因果の縛りに抗う者】を見る"
+        },
+        {
+          "index": 62,
+          "global_index": 62,
+          "type": "narration",
+          "speaker": null,
+          "text": "【反抗无法逃避的因果之人】观看",
+          "raw": "【反抗无法逃避的因果之人】观看"
+        },
+        {
+          "index": 63,
+          "global_index": 63,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 64,
+          "global_index": 64,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 65,
+          "global_index": 65,
+          "type": "narration",
+          "speaker": null,
+          "text": "【新たな世界を生みだす者】を見る",
+          "raw": "【新たな世界を生みだす者】を見る"
+        },
+        {
+          "index": 66,
+          "global_index": 66,
+          "type": "narration",
+          "speaker": null,
+          "text": "【创造新世界之人】观看",
+          "raw": "【创造新世界之人】观看"
+        },
+        {
+          "index": 67,
+          "global_index": 67,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 68,
+          "global_index": 68,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 69,
+          "global_index": 69,
+          "type": "narration",
+          "speaker": null,
+          "text": "【如月・秀真】を見る",
+          "raw": "【如月・秀真】を見る"
+        },
+        {
+          "index": 70,
+          "global_index": 70,
+          "type": "narration",
+          "speaker": null,
+          "text": "【如月·秀真】观看",
+          "raw": "【如月·秀真】观看"
+        },
+        {
+          "index": 71,
+          "global_index": 71,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 72,
+          "global_index": 72,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 73,
+          "global_index": 73,
+          "type": "narration",
+          "speaker": null,
+          "text": "【弥生・秀真】を見る",
+          "raw": "【弥生・秀真】を見る"
+        },
+        {
+          "index": 74,
+          "global_index": 74,
+          "type": "narration",
+          "speaker": null,
+          "text": "【弥生·秀真】观看",
+          "raw": "【弥生·秀真】观看"
+        },
+        {
+          "index": 75,
+          "global_index": 75,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 76,
+          "global_index": 76,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 77,
+          "global_index": 77,
+          "type": "narration",
+          "speaker": null,
+          "text": "【卯月・淡海】を見る",
+          "raw": "【卯月・淡海】を見る"
+        },
+        {
+          "index": 78,
+          "global_index": 78,
+          "type": "narration",
+          "speaker": null,
+          "text": "【卯月·淡海】观看",
+          "raw": "【卯月·淡海】观看"
+        },
+        {
+          "index": 79,
+          "global_index": 79,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 80,
+          "global_index": 80,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 81,
+          "global_index": 81,
+          "type": "narration",
+          "speaker": null,
+          "text": "【卯月・不和之関】を見る",
+          "raw": "【卯月・不和之関】を見る"
+        },
+        {
+          "index": 82,
+          "global_index": 82,
+          "type": "narration",
+          "speaker": null,
+          "text": "【卯月·不和之関】观看",
+          "raw": "【卯月·不和之関】观看"
+        },
+        {
+          "index": 83,
+          "global_index": 83,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 84,
+          "global_index": 84,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 85,
+          "global_index": 85,
+          "type": "narration",
+          "speaker": null,
+          "text": "【皐月・不和之関】を見る",
+          "raw": "【皐月・不和之関】を見る"
+        },
+        {
+          "index": 86,
+          "global_index": 86,
+          "type": "narration",
+          "speaker": null,
+          "text": "【皐月·不和之関】观看",
+          "raw": "【皐月·不和之関】观看"
+        },
+        {
+          "index": 87,
+          "global_index": 87,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 88,
+          "global_index": 88,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 89,
+          "global_index": 89,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_3choice1_1",
+          "raw": "sceneskip_r_3choice1_1"
+        },
+        {
+          "index": 90,
+          "global_index": 90,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_3choice1_1",
+          "raw": "sceneskip_r_3choice1_1"
+        },
+        {
+          "index": 91,
+          "global_index": 91,
+          "type": "narration",
+          "speaker": null,
+          "text": "男の話を知りたい",
+          "raw": "男の話を知りたい"
+        },
+        {
+          "index": 92,
+          "global_index": 92,
+          "type": "narration",
+          "speaker": null,
+          "text": "想知道男人的事",
+          "raw": "想知道男人的事"
+        },
+        {
+          "index": 93,
+          "global_index": 93,
+          "type": "narration",
+          "speaker": null,
+          "text": "女の話を知りたい",
+          "raw": "女の話を知りたい"
+        },
+        {
+          "index": 94,
+          "global_index": 94,
+          "type": "narration",
+          "speaker": null,
+          "text": "想知道女人的事",
+          "raw": "想知道女人的事"
+        },
+        {
+          "index": 95,
+          "global_index": 95,
+          "type": "narration",
+          "speaker": null,
+          "text": "もう結構だ",
+          "raw": "もう結構だ"
+        },
+        {
+          "index": 96,
+          "global_index": 96,
+          "type": "narration",
+          "speaker": null,
+          "text": "够了",
+          "raw": "够了"
+        },
+        {
+          "index": 97,
+          "global_index": 97,
+          "type": "narration",
+          "speaker": null,
+          "text": "【男の話を知りたい】を見る",
+          "raw": "【男の話を知りたい】を見る"
+        },
+        {
+          "index": 98,
+          "global_index": 98,
+          "type": "narration",
+          "speaker": null,
+          "text": "【想知道男人的事】观看",
+          "raw": "【想知道男人的事】观看"
+        },
+        {
+          "index": 99,
+          "global_index": 99,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 100,
+          "global_index": 100,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 101,
+          "global_index": 101,
+          "type": "narration",
+          "speaker": null,
+          "text": "【女の話を知りたい】を見る",
+          "raw": "【女の話を知りたい】を見る"
+        },
+        {
+          "index": 102,
+          "global_index": 102,
+          "type": "narration",
+          "speaker": null,
+          "text": "【想知道女人的事】观看",
+          "raw": "【想知道女人的事】观看"
+        },
+        {
+          "index": 103,
+          "global_index": 103,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 104,
+          "global_index": 104,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 105,
+          "global_index": 105,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_3choice5_1",
+          "raw": "sceneskip_r_3choice5_1"
+        },
+        {
+          "index": 106,
+          "global_index": 106,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_3choice5_1",
+          "raw": "sceneskip_r_3choice5_1"
+        },
+        {
+          "index": 107,
+          "global_index": 107,
+          "type": "narration",
+          "speaker": null,
+          "text": "不二――覇吐・竜胆",
+          "raw": "不二――覇吐・竜胆"
+        },
+        {
+          "index": 108,
+          "global_index": 108,
+          "type": "narration",
+          "speaker": null,
+          "text": "不二――覇吐·竜胆",
+          "raw": "不二――覇吐·竜胆"
+        },
+        {
+          "index": 109,
+          "global_index": 109,
+          "type": "narration",
+          "speaker": null,
+          "text": "不二――宗次郎・紫織",
+          "raw": "不二――宗次郎・紫織"
+        },
+        {
+          "index": 110,
+          "global_index": 110,
+          "type": "narration",
+          "speaker": null,
+          "text": "不二――宗次郎·紫織",
+          "raw": "不二――宗次郎·紫織"
+        },
+        {
+          "index": 111,
+          "global_index": 111,
+          "type": "narration",
+          "speaker": null,
+          "text": "鬼無里――刑士郎・咲耶",
+          "raw": "鬼無里――刑士郎・咲耶"
+        },
+        {
+          "index": 112,
+          "global_index": 112,
+          "type": "narration",
+          "speaker": null,
+          "text": "鬼無里――刑士郎·咲耶",
+          "raw": "鬼無里――刑士郎·咲耶"
+        },
+        {
+          "index": 113,
+          "global_index": 113,
+          "type": "narration",
+          "speaker": null,
+          "text": "鬼無里――夜行・龍水",
+          "raw": "鬼無里――夜行・龍水"
+        },
+        {
+          "index": 114,
+          "global_index": 114,
+          "type": "narration",
+          "speaker": null,
+          "text": "鬼無里――夜行·龍水",
+          "raw": "鬼無里――夜行·龍水"
+        },
+        {
+          "index": 115,
+          "global_index": 115,
+          "type": "narration",
+          "speaker": null,
+          "text": "【不二――覇吐・竜胆】を見る",
+          "raw": "【不二――覇吐・竜胆】を見る"
+        },
+        {
+          "index": 116,
+          "global_index": 116,
+          "type": "narration",
+          "speaker": null,
+          "text": "【不二――覇吐·竜胆】观看",
+          "raw": "【不二――覇吐·竜胆】观看"
+        },
+        {
+          "index": 117,
+          "global_index": 117,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 118,
+          "global_index": 118,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 119,
+          "global_index": 119,
+          "type": "narration",
+          "speaker": null,
+          "text": "【不二――宗次郎・紫織】を見る",
+          "raw": "【不二――宗次郎・紫織】を見る"
+        },
+        {
+          "index": 120,
+          "global_index": 120,
+          "type": "narration",
+          "speaker": null,
+          "text": "【不二――宗次郎·紫織】观看",
+          "raw": "【不二――宗次郎·紫織】观看"
+        },
+        {
+          "index": 121,
+          "global_index": 121,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 122,
+          "global_index": 122,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 123,
+          "global_index": 123,
+          "type": "narration",
+          "speaker": null,
+          "text": "【鬼無里――刑士郎・咲耶】を見る",
+          "raw": "【鬼無里――刑士郎・咲耶】を見る"
+        },
+        {
+          "index": 124,
+          "global_index": 124,
+          "type": "narration",
+          "speaker": null,
+          "text": "【鬼無里――刑士郎·咲耶】观看",
+          "raw": "【鬼無里――刑士郎·咲耶】观看"
+        },
+        {
+          "index": 125,
+          "global_index": 125,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 126,
+          "global_index": 126,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 127,
+          "global_index": 127,
+          "type": "narration",
+          "speaker": null,
+          "text": "【鬼無里――夜行・龍水】を見る",
+          "raw": "【鬼無里――夜行・龍水】を見る"
+        },
+        {
+          "index": 128,
+          "global_index": 128,
+          "type": "narration",
+          "speaker": null,
+          "text": "【鬼無里――夜行·龍水】观看",
+          "raw": "【鬼無里――夜行·龍水】观看"
+        },
+        {
+          "index": 129,
+          "global_index": 129,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 130,
+          "global_index": 130,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 131,
+          "global_index": 131,
+          "type": "narration",
+          "speaker": null,
+          "text": "【水無月・鬼無里】を見る",
+          "raw": "【水無月・鬼無里】を見る"
+        },
+        {
+          "index": 132,
+          "global_index": 132,
+          "type": "narration",
+          "speaker": null,
+          "text": "【水無月·鬼無里】观看",
+          "raw": "【水無月·鬼無里】观看"
+        },
+        {
+          "index": 133,
+          "global_index": 133,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 134,
+          "global_index": 134,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 135,
+          "global_index": 135,
+          "type": "narration",
+          "speaker": null,
+          "text": "【水無月・不二】を見る",
+          "raw": "【水無月・不二】を見る"
+        },
+        {
+          "index": 136,
+          "global_index": 136,
+          "type": "narration",
+          "speaker": null,
+          "text": "【水無月·不二】观看",
+          "raw": "【水無月·不二】观看"
+        },
+        {
+          "index": 137,
+          "global_index": 137,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 138,
+          "global_index": 138,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 139,
+          "global_index": 139,
+          "type": "narration",
+          "speaker": null,
+          "text": "【水無月・箱根】を見る",
+          "raw": "【水無月・箱根】を見る"
+        },
+        {
+          "index": 140,
+          "global_index": 140,
+          "type": "narration",
+          "speaker": null,
+          "text": "【水無月·箱根】观看",
+          "raw": "【水無月·箱根】观看"
+        },
+        {
+          "index": 141,
+          "global_index": 141,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 142,
+          "global_index": 142,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 143,
+          "global_index": 143,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hakochoice1_1",
+          "raw": "sceneskip_r_hakochoice1_1"
+        },
+        {
+          "index": 144,
+          "global_index": 144,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hakochoice1_1",
+          "raw": "sceneskip_r_hakochoice1_1"
+        },
+        {
+          "index": 145,
+          "global_index": 145,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎たちに付いていく",
+          "raw": "刑士郎たちに付いていく"
+        },
+        {
+          "index": 146,
+          "global_index": 146,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎组跟随",
+          "raw": "刑士郎组跟随"
+        },
+        {
+          "index": 147,
+          "global_index": 147,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎たちに付いていく",
+          "raw": "宗次郎たちに付いていく"
+        },
+        {
+          "index": 148,
+          "global_index": 148,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎组跟随",
+          "raw": "宗次郎组跟随"
+        },
+        {
+          "index": 149,
+          "global_index": 149,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行たちに付いていく",
+          "raw": "夜行たちに付いていく"
+        },
+        {
+          "index": 150,
+          "global_index": 150,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行组跟随",
+          "raw": "夜行组跟随"
+        },
+        {
+          "index": 151,
+          "global_index": 151,
+          "type": "narration",
+          "speaker": null,
+          "text": "【刑士郎たちに付いていく】を見る",
+          "raw": "【刑士郎たちに付いていく】を見る"
+        },
+        {
+          "index": 152,
+          "global_index": 152,
+          "type": "narration",
+          "speaker": null,
+          "text": "【刑士郎组跟随】观看",
+          "raw": "【刑士郎组跟随】观看"
+        },
+        {
+          "index": 153,
+          "global_index": 153,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 154,
+          "global_index": 154,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 155,
+          "global_index": 155,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hako_dc_1",
+          "raw": "sceneskip_r_hako_dc_1"
+        },
+        {
+          "index": 156,
+          "global_index": 156,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hako_dc_1",
+          "raw": "sceneskip_r_hako_dc_1"
+        },
+        {
+          "index": 157,
+          "global_index": 157,
+          "type": "narration",
+          "speaker": null,
+          "text": "女だな",
+          "raw": "女だな"
+        },
+        {
+          "index": 158,
+          "global_index": 158,
+          "type": "narration",
+          "speaker": null,
+          "text": "女",
+          "raw": "女"
+        },
+        {
+          "index": 159,
+          "global_index": 159,
+          "type": "narration",
+          "speaker": null,
+          "text": "男かな",
+          "raw": "男かな"
+        },
+        {
+          "index": 160,
+          "global_index": 160,
+          "type": "narration",
+          "speaker": null,
+          "text": "男",
+          "raw": "男"
+        },
+        {
+          "index": 161,
+          "global_index": 161,
+          "type": "narration",
+          "speaker": null,
+          "text": "【女だな】を見る",
+          "raw": "【女だな】を見る"
+        },
+        {
+          "index": 162,
+          "global_index": 162,
+          "type": "narration",
+          "speaker": null,
+          "text": "【女】观看",
+          "raw": "【女】观看"
+        },
+        {
+          "index": 163,
+          "global_index": 163,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 164,
+          "global_index": 164,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 165,
+          "global_index": 165,
+          "type": "narration",
+          "speaker": null,
+          "text": "【男だな】を見る",
+          "raw": "【男だな】を見る"
+        },
+        {
+          "index": 166,
+          "global_index": 166,
+          "type": "narration",
+          "speaker": null,
+          "text": "【男】观看",
+          "raw": "【男】观看"
+        },
+        {
+          "index": 167,
+          "global_index": 167,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 168,
+          "global_index": 168,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 169,
+          "global_index": 169,
+          "type": "narration",
+          "speaker": null,
+          "text": "【刑士郎たちに付いていく・二回目以降】を見る",
+          "raw": "【刑士郎たちに付いていく・二回目以降】を見る"
+        },
+        {
+          "index": 170,
+          "global_index": 170,
+          "type": "narration",
+          "speaker": null,
+          "text": "【刑士郎组跟随·二回目以降】观看",
+          "raw": "【刑士郎组跟随·二回目以降】观看"
+        },
+        {
+          "index": 171,
+          "global_index": 171,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 172,
+          "global_index": 172,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 173,
+          "global_index": 173,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hako_d1c_1",
+          "raw": "sceneskip_r_hako_d1c_1"
+        },
+        {
+          "index": 174,
+          "global_index": 174,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hako_d1c_1",
+          "raw": "sceneskip_r_hako_d1c_1"
+        },
+        {
+          "index": 175,
+          "global_index": 175,
+          "type": "narration",
+          "speaker": null,
+          "text": "女だな",
+          "raw": "女だな"
+        },
+        {
+          "index": 176,
+          "global_index": 176,
+          "type": "narration",
+          "speaker": null,
+          "text": "女",
+          "raw": "女"
+        },
+        {
+          "index": 177,
+          "global_index": 177,
+          "type": "narration",
+          "speaker": null,
+          "text": "男かな",
+          "raw": "男かな"
+        },
+        {
+          "index": 178,
+          "global_index": 178,
+          "type": "narration",
+          "speaker": null,
+          "text": "男",
+          "raw": "男"
+        },
+        {
+          "index": 179,
+          "global_index": 179,
+          "type": "narration",
+          "speaker": null,
+          "text": "【男だな・二回目以降】を見る",
+          "raw": "【男だな・二回目以降】を見る"
+        },
+        {
+          "index": 180,
+          "global_index": 180,
+          "type": "narration",
+          "speaker": null,
+          "text": "【男·二回目以降】观看",
+          "raw": "【男·二回目以降】观看"
+        },
+        {
+          "index": 181,
+          "global_index": 181,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 182,
+          "global_index": 182,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 183,
+          "global_index": 183,
+          "type": "narration",
+          "speaker": null,
+          "text": "【宗次郎たちに付いていく】を見る",
+          "raw": "【宗次郎たちに付いていく】を見る"
+        },
+        {
+          "index": 184,
+          "global_index": 184,
+          "type": "narration",
+          "speaker": null,
+          "text": "【宗次郎组跟随】观看",
+          "raw": "【宗次郎组跟随】观看"
+        },
+        {
+          "index": 185,
+          "global_index": 185,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 186,
+          "global_index": 186,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 187,
+          "global_index": 187,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hako_ec_1",
+          "raw": "sceneskip_r_hako_ec_1"
+        },
+        {
+          "index": 188,
+          "global_index": 188,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hako_ec_1",
+          "raw": "sceneskip_r_hako_ec_1"
+        },
+        {
+          "index": 189,
+          "global_index": 189,
+          "type": "narration",
+          "speaker": null,
+          "text": "いいと思うぜ",
+          "raw": "いいと思うぜ"
+        },
+        {
+          "index": 190,
+          "global_index": 190,
+          "type": "narration",
+          "speaker": null,
+          "text": "觉得很好",
+          "raw": "觉得很好"
+        },
+        {
+          "index": 191,
+          "global_index": 191,
+          "type": "narration",
+          "speaker": null,
+          "text": "いや、ないな",
+          "raw": "いや、ないな"
+        },
+        {
+          "index": 192,
+          "global_index": 192,
+          "type": "narration",
+          "speaker": null,
+          "text": "觉得不好",
+          "raw": "觉得不好"
+        },
+        {
+          "index": 193,
+          "global_index": 193,
+          "type": "narration",
+          "speaker": null,
+          "text": "【いいと思うぜ】を見る",
+          "raw": "【いいと思うぜ】を見る"
+        },
+        {
+          "index": 194,
+          "global_index": 194,
+          "type": "narration",
+          "speaker": null,
+          "text": "【觉得很好】观看",
+          "raw": "【觉得很好】观看"
+        },
+        {
+          "index": 195,
+          "global_index": 195,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 196,
+          "global_index": 196,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 197,
+          "global_index": 197,
+          "type": "narration",
+          "speaker": null,
+          "text": "【いや、ないな】を見る",
+          "raw": "【いや、ないな】を見る"
+        },
+        {
+          "index": 198,
+          "global_index": 198,
+          "type": "narration",
+          "speaker": null,
+          "text": "【觉得不好】观看",
+          "raw": "【觉得不好】观看"
+        },
+        {
+          "index": 199,
+          "global_index": 199,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 200,
+          "global_index": 200,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 201,
+          "global_index": 201,
+          "type": "narration",
+          "speaker": null,
+          "text": "【宗次郎たちに付いていく・二回目以降】を見る",
+          "raw": "【宗次郎たちに付いていく・二回目以降】を見る"
+        },
+        {
+          "index": 202,
+          "global_index": 202,
+          "type": "narration",
+          "speaker": null,
+          "text": "【宗次郎组跟随·二回目以降】观看",
+          "raw": "【宗次郎组跟随·二回目以降】观看"
+        },
+        {
+          "index": 203,
+          "global_index": 203,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 204,
+          "global_index": 204,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 205,
+          "global_index": 205,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hako_e1c_1",
+          "raw": "sceneskip_r_hako_e1c_1"
+        },
+        {
+          "index": 206,
+          "global_index": 206,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hako_e1c_1",
+          "raw": "sceneskip_r_hako_e1c_1"
+        },
+        {
+          "index": 207,
+          "global_index": 207,
+          "type": "narration",
+          "speaker": null,
+          "text": "いいと思うぜ",
+          "raw": "いいと思うぜ"
+        },
+        {
+          "index": 208,
+          "global_index": 208,
+          "type": "narration",
+          "speaker": null,
+          "text": "觉得很好",
+          "raw": "觉得很好"
+        },
+        {
+          "index": 209,
+          "global_index": 209,
+          "type": "narration",
+          "speaker": null,
+          "text": "いや、ないな",
+          "raw": "いや、ないな"
+        },
+        {
+          "index": 210,
+          "global_index": 210,
+          "type": "narration",
+          "speaker": null,
+          "text": "觉得不好",
+          "raw": "觉得不好"
+        },
+        {
+          "index": 211,
+          "global_index": 211,
+          "type": "narration",
+          "speaker": null,
+          "text": "【夜行たちに付いていく】を見る",
+          "raw": "【夜行たちに付いていく】を見る"
+        },
+        {
+          "index": 212,
+          "global_index": 212,
+          "type": "narration",
+          "speaker": null,
+          "text": "【夜行组跟随】观看",
+          "raw": "【夜行组跟随】观看"
+        },
+        {
+          "index": 213,
+          "global_index": 213,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 214,
+          "global_index": 214,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 215,
+          "global_index": 215,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hako_fc1",
+          "raw": "sceneskip_r_hako_fc1"
+        },
+        {
+          "index": 216,
+          "global_index": 216,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hako_fc1",
+          "raw": "sceneskip_r_hako_fc1"
+        },
+        {
+          "index": 217,
+          "global_index": 217,
+          "type": "narration",
+          "speaker": null,
+          "text": "たまには恋愛ものもいいかも",
+          "raw": "たまには恋愛ものもいいかも"
+        },
+        {
+          "index": 218,
+          "global_index": 218,
+          "type": "narration",
+          "speaker": null,
+          "text": "偶尔选次恋爱的",
+          "raw": "偶尔选次恋爱的"
+        },
+        {
+          "index": 219,
+          "global_index": 219,
+          "type": "narration",
+          "speaker": null,
+          "text": "男は黙って春本一択",
+          "raw": "男は黙って春本一択"
+        },
+        {
+          "index": 220,
+          "global_index": 220,
+          "type": "narration",
+          "speaker": null,
+          "text": "是男人就该黄书",
+          "raw": "是男人就该黄书"
+        },
+        {
+          "index": 221,
+          "global_index": 221,
+          "type": "narration",
+          "speaker": null,
+          "text": "【たまには恋愛ものもいいかも】を見る",
+          "raw": "【たまには恋愛ものもいいかも】を見る"
+        },
+        {
+          "index": 222,
+          "global_index": 222,
+          "type": "narration",
+          "speaker": null,
+          "text": "【偶尔选次恋爱的】观看",
+          "raw": "【偶尔选次恋爱的】观看"
+        },
+        {
+          "index": 223,
+          "global_index": 223,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 224,
+          "global_index": 224,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 225,
+          "global_index": 225,
+          "type": "narration",
+          "speaker": null,
+          "text": "【男は黙って春本一択】を見る",
+          "raw": "【男は黙って春本一択】を見る"
+        },
+        {
+          "index": 226,
+          "global_index": 226,
+          "type": "narration",
+          "speaker": null,
+          "text": "【是男人就该黄书一択】观看",
+          "raw": "【是男人就该黄书一択】观看"
+        },
+        {
+          "index": 227,
+          "global_index": 227,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 228,
+          "global_index": 228,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 229,
+          "global_index": 229,
+          "type": "narration",
+          "speaker": null,
+          "text": "【温泉覗き・謎の少女】を見る",
+          "raw": "【温泉覗き・謎の少女】を見る"
+        },
+        {
+          "index": 230,
+          "global_index": 230,
+          "type": "narration",
+          "speaker": null,
+          "text": "【温泉覗き·謎の少女】观看",
+          "raw": "【温泉覗き·謎の少女】观看"
+        },
+        {
+          "index": 231,
+          "global_index": 231,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 232,
+          "global_index": 232,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 233,
+          "global_index": 233,
+          "type": "narration",
+          "speaker": null,
+          "text": "【夜行たちに付いていく・二回目以降】を見る",
+          "raw": "【夜行たちに付いていく・二回目以降】を見る"
+        },
+        {
+          "index": 234,
+          "global_index": 234,
+          "type": "narration",
+          "speaker": null,
+          "text": "【夜行组跟随·二回目以降】观看",
+          "raw": "【夜行组跟随·二回目以降】观看"
+        },
+        {
+          "index": 235,
+          "global_index": 235,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 236,
+          "global_index": 236,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 237,
+          "global_index": 237,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hako_f1c_1",
+          "raw": "sceneskip_r_hako_f1c_1"
+        },
+        {
+          "index": 238,
+          "global_index": 238,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_hako_f1c_1",
+          "raw": "sceneskip_r_hako_f1c_1"
+        },
+        {
+          "index": 239,
+          "global_index": 239,
+          "type": "narration",
+          "speaker": null,
+          "text": "たまには恋愛ものも良いかも",
+          "raw": "たまには恋愛ものも良いかも"
+        },
+        {
+          "index": 240,
+          "global_index": 240,
+          "type": "narration",
+          "speaker": null,
+          "text": "偶尔选次恋爱的",
+          "raw": "偶尔选次恋爱的"
+        },
+        {
+          "index": 241,
+          "global_index": 241,
+          "type": "narration",
+          "speaker": null,
+          "text": "男は黙って春本一択",
+          "raw": "男は黙って春本一択"
+        },
+        {
+          "index": 242,
+          "global_index": 242,
+          "type": "narration",
+          "speaker": null,
+          "text": "是男人就该黄书一択",
+          "raw": "是男人就该黄书一択"
+        },
+        {
+          "index": 243,
+          "global_index": 243,
+          "type": "narration",
+          "speaker": null,
+          "text": "【男は黙って春本一択・二回目以降】を見る",
+          "raw": "【男は黙って春本一択・二回目以降】を見る"
+        },
+        {
+          "index": 244,
+          "global_index": 244,
+          "type": "narration",
+          "speaker": null,
+          "text": "【是男人就该黄书一択·二回目以降】观看",
+          "raw": "【是男人就该黄书一択·二回目以降】观看"
+        },
+        {
+          "index": 245,
+          "global_index": 245,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 246,
+          "global_index": 246,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 247,
+          "global_index": 247,
+          "type": "narration",
+          "speaker": null,
+          "text": "【水無月・箱根・合流後・繰り返し】を見る",
+          "raw": "【水無月・箱根・合流後・繰り返し】を見る"
+        },
+        {
+          "index": 248,
+          "global_index": 248,
+          "type": "narration",
+          "speaker": null,
+          "text": "【水無月·箱根·合流後·繰り返し】观看",
+          "raw": "【水無月·箱根·合流後·繰り返し】观看"
+        },
+        {
+          "index": 249,
+          "global_index": 249,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 250,
+          "global_index": 250,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 251,
+          "global_index": 251,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_gc_1",
+          "raw": "sceneskip_gc_1"
+        },
+        {
+          "index": 252,
+          "global_index": 252,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_gc_1",
+          "raw": "sceneskip_gc_1"
+        },
+        {
+          "index": 253,
+          "global_index": 253,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎たちに付いていく",
+          "raw": "刑士郎たちに付いていく"
+        },
+        {
+          "index": 254,
+          "global_index": 254,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎组跟随",
+          "raw": "刑士郎组跟随"
+        },
+        {
+          "index": 255,
+          "global_index": 255,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎たちに付いていく",
+          "raw": "宗次郎たちに付いていく"
+        },
+        {
+          "index": 256,
+          "global_index": 256,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎组跟随",
+          "raw": "宗次郎组跟随"
+        },
+        {
+          "index": 257,
+          "global_index": 257,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行たちに付いていく",
+          "raw": "夜行たちに付いていく"
+        },
+        {
+          "index": 258,
+          "global_index": 258,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行组跟随",
+          "raw": "夜行组跟随"
+        },
+        {
+          "index": 259,
+          "global_index": 259,
+          "type": "narration",
+          "speaker": null,
+          "text": "【水無月・箱根・合流後・正解】を見る",
+          "raw": "【水無月・箱根・合流後・正解】を見る"
+        },
+        {
+          "index": 260,
+          "global_index": 260,
+          "type": "narration",
+          "speaker": null,
+          "text": "【水無月·箱根·合流後·正解】观看",
+          "raw": "【水無月·箱根·合流後·正解】观看"
+        },
+        {
+          "index": 261,
+          "global_index": 261,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 262,
+          "global_index": 262,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 263,
+          "global_index": 263,
+          "type": "narration",
+          "speaker": null,
+          "text": "【文月・穢土諏訪原】を見る",
+          "raw": "【文月・穢土諏訪原】を見る"
+        },
+        {
+          "index": 264,
+          "global_index": 264,
+          "type": "narration",
+          "speaker": null,
+          "text": "【文月·穢土諏訪原】观看",
+          "raw": "【文月·穢土諏訪原】观看"
+        },
+        {
+          "index": 265,
+          "global_index": 265,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 266,
+          "global_index": 266,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 267,
+          "global_index": 267,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_6choice_1",
+          "raw": "sceneskip_r_6choice_1"
+        },
+        {
+          "index": 268,
+          "global_index": 268,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_6choice_1",
+          "raw": "sceneskip_r_6choice_1"
+        },
+        {
+          "index": 269,
+          "global_index": 269,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎＆咲耶組",
+          "raw": "刑士郎＆咲耶組"
+        },
+        {
+          "index": 270,
+          "global_index": 270,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎＆咲耶組",
+          "raw": "刑士郎＆咲耶組"
+        },
+        {
+          "index": 271,
+          "global_index": 271,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行＆龍水組",
+          "raw": "夜行＆龍水組"
+        },
+        {
+          "index": 272,
+          "global_index": 272,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行＆龍水組",
+          "raw": "夜行＆龍水組"
+        },
+        {
+          "index": 273,
+          "global_index": 273,
+          "type": "narration",
+          "speaker": null,
+          "text": "覇吐＆竜胆組",
+          "raw": "覇吐＆竜胆組"
+        },
+        {
+          "index": 274,
+          "global_index": 274,
+          "type": "narration",
+          "speaker": null,
+          "text": "覇吐＆竜胆組",
+          "raw": "覇吐＆竜胆組"
+        },
+        {
+          "index": 275,
+          "global_index": 275,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎＆紫織組",
+          "raw": "宗次郎＆紫織組"
+        },
+        {
+          "index": 276,
+          "global_index": 276,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎＆紫織組",
+          "raw": "宗次郎＆紫織組"
+        },
+        {
+          "index": 277,
+          "global_index": 277,
+          "type": "narration",
+          "speaker": null,
+          "text": "【刑士郎＆咲耶組】を見る",
+          "raw": "【刑士郎＆咲耶組】を見る"
+        },
+        {
+          "index": 278,
+          "global_index": 278,
+          "type": "narration",
+          "speaker": null,
+          "text": "【刑士郎＆咲耶組】观看",
+          "raw": "【刑士郎＆咲耶組】观看"
+        },
+        {
+          "index": 279,
+          "global_index": 279,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 280,
+          "global_index": 280,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 281,
+          "global_index": 281,
+          "type": "narration",
+          "speaker": null,
+          "text": "【夜行＆龍水組】を見る",
+          "raw": "【夜行＆龍水組】を見る"
+        },
+        {
+          "index": 282,
+          "global_index": 282,
+          "type": "narration",
+          "speaker": null,
+          "text": "【夜行＆龍水組】观看",
+          "raw": "【夜行＆龍水組】观看"
+        },
+        {
+          "index": 283,
+          "global_index": 283,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 284,
+          "global_index": 284,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 285,
+          "global_index": 285,
+          "type": "narration",
+          "speaker": null,
+          "text": "【覇吐＆竜胆組】を見る",
+          "raw": "【覇吐＆竜胆組】を見る"
+        },
+        {
+          "index": 286,
+          "global_index": 286,
+          "type": "narration",
+          "speaker": null,
+          "text": "【覇吐＆竜胆組】观看",
+          "raw": "【覇吐＆竜胆組】观看"
+        },
+        {
+          "index": 287,
+          "global_index": 287,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 288,
+          "global_index": 288,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 289,
+          "global_index": 289,
+          "type": "narration",
+          "speaker": null,
+          "text": "【宗次郎＆紫織組】を見る",
+          "raw": "【宗次郎＆紫織組】を見る"
+        },
+        {
+          "index": 290,
+          "global_index": 290,
+          "type": "narration",
+          "speaker": null,
+          "text": "【宗次郎＆紫織組】观看",
+          "raw": "【宗次郎＆紫織組】观看"
+        },
+        {
+          "index": 291,
+          "global_index": 291,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 292,
+          "global_index": 292,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 293,
+          "global_index": 293,
+          "type": "narration",
+          "speaker": null,
+          "text": "【文月・穢土諏訪原・合流後】を見る",
+          "raw": "【文月・穢土諏訪原・合流後】を見る"
+        },
+        {
+          "index": 294,
+          "global_index": 294,
+          "type": "narration",
+          "speaker": null,
+          "text": "【文月·穢土諏訪原·合流後】观看",
+          "raw": "【文月·穢土諏訪原·合流後】观看"
+        },
+        {
+          "index": 295,
+          "global_index": 295,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 296,
+          "global_index": 296,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 297,
+          "global_index": 297,
+          "type": "narration",
+          "speaker": null,
+          "text": "【葉月・奥羽】を見る",
+          "raw": "【葉月・奥羽】を見る"
+        },
+        {
+          "index": 298,
+          "global_index": 298,
+          "type": "narration",
+          "speaker": null,
+          "text": "【葉月·奥羽】观看",
+          "raw": "【葉月·奥羽】观看"
+        },
+        {
+          "index": 299,
+          "global_index": 299,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 300,
+          "global_index": 300,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 301,
+          "global_index": 301,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_7choice_1",
+          "raw": "sceneskip_r_7choice_1"
+        },
+        {
+          "index": 302,
+          "global_index": 302,
+          "type": "narration",
+          "speaker": null,
+          "text": "sceneskip_r_7choice_1",
+          "raw": "sceneskip_r_7choice_1"
+        },
+        {
+          "index": 303,
+          "global_index": 303,
+          "type": "narration",
+          "speaker": null,
+          "text": "東――覇吐",
+          "raw": "東――覇吐"
+        },
+        {
+          "index": 304,
+          "global_index": 304,
+          "type": "narration",
+          "speaker": null,
+          "text": "東――覇吐",
+          "raw": "東――覇吐"
+        },
+        {
+          "index": 305,
+          "global_index": 305,
+          "type": "narration",
+          "speaker": null,
+          "text": "西――刑士郎",
+          "raw": "西――刑士郎"
+        },
+        {
+          "index": 306,
+          "global_index": 306,
+          "type": "narration",
+          "speaker": null,
+          "text": "西――刑士郎",
+          "raw": "西――刑士郎"
+        },
+        {
+          "index": 307,
+          "global_index": 307,
+          "type": "narration",
+          "speaker": null,
+          "text": "南――夜行",
+          "raw": "南――夜行"
+        },
+        {
+          "index": 308,
+          "global_index": 308,
+          "type": "narration",
+          "speaker": null,
+          "text": "南――夜行",
+          "raw": "南――夜行"
+        },
+        {
+          "index": 309,
+          "global_index": 309,
+          "type": "narration",
+          "speaker": null,
+          "text": "北――宗次郎",
+          "raw": "北――宗次郎"
+        },
+        {
+          "index": 310,
+          "global_index": 310,
+          "type": "narration",
+          "speaker": null,
+          "text": "北――宗次郎",
+          "raw": "北――宗次郎"
+        },
+        {
+          "index": 311,
+          "global_index": 311,
+          "type": "narration",
+          "speaker": null,
+          "text": "【東――覇吐】を見る",
+          "raw": "【東――覇吐】を見る"
+        },
+        {
+          "index": 312,
+          "global_index": 312,
+          "type": "narration",
+          "speaker": null,
+          "text": "【東――覇吐】观看",
+          "raw": "【東――覇吐】观看"
+        },
+        {
+          "index": 313,
+          "global_index": 313,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 314,
+          "global_index": 314,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 315,
+          "global_index": 315,
+          "type": "narration",
+          "speaker": null,
+          "text": "【西――刑士郎】を見る",
+          "raw": "【西――刑士郎】を見る"
+        },
+        {
+          "index": 316,
+          "global_index": 316,
+          "type": "narration",
+          "speaker": null,
+          "text": "【西――刑士郎】观看",
+          "raw": "【西――刑士郎】观看"
+        },
+        {
+          "index": 317,
+          "global_index": 317,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 318,
+          "global_index": 318,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 319,
+          "global_index": 319,
+          "type": "narration",
+          "speaker": null,
+          "text": "【南――夜行】を見る",
+          "raw": "【南――夜行】を見る"
+        },
+        {
+          "index": 320,
+          "global_index": 320,
+          "type": "narration",
+          "speaker": null,
+          "text": "【南――夜行】观看",
+          "raw": "【南――夜行】观看"
+        },
+        {
+          "index": 321,
+          "global_index": 321,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 322,
+          "global_index": 322,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 323,
+          "global_index": 323,
+          "type": "narration",
+          "speaker": null,
+          "text": "【北――宗次郎】を見る",
+          "raw": "【北――宗次郎】を見る"
+        },
+        {
+          "index": 324,
+          "global_index": 324,
+          "type": "narration",
+          "speaker": null,
+          "text": "【北――宗次郎】观看",
+          "raw": "【北――宗次郎】观看"
+        },
+        {
+          "index": 325,
+          "global_index": 325,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 326,
+          "global_index": 326,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 327,
+          "global_index": 327,
+          "type": "narration",
+          "speaker": null,
+          "text": "【葉月・奥羽・合流後】を見る",
+          "raw": "【葉月・奥羽・合流後】を見る"
+        },
+        {
+          "index": 328,
+          "global_index": 328,
+          "type": "narration",
+          "speaker": null,
+          "text": "【葉月·奥羽·合流後】观看",
+          "raw": "【葉月·奥羽·合流後】观看"
+        },
+        {
+          "index": 329,
+          "global_index": 329,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 330,
+          "global_index": 330,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 331,
+          "global_index": 331,
+          "type": "narration",
+          "speaker": null,
+          "text": "【霜月・東外流】を見る",
+          "raw": "【霜月・東外流】を見る"
+        },
+        {
+          "index": 332,
+          "global_index": 332,
+          "type": "narration",
+          "speaker": null,
+          "text": "【霜月·東外流】观看",
+          "raw": "【霜月·東外流】观看"
+        },
+        {
+          "index": 333,
+          "global_index": 333,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 334,
+          "global_index": 334,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 335,
+          "global_index": 335,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月・無間蝦夷】を見る",
+          "raw": "【極月・無間蝦夷】を見る"
+        },
+        {
+          "index": 336,
+          "global_index": 336,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月·無間蝦夷】观看",
+          "raw": "【極月·無間蝦夷】观看"
+        },
+        {
+          "index": 337,
+          "global_index": 337,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 338,
+          "global_index": 338,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 339,
+          "global_index": 339,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月・無間蝦夷・刑士郎×咲耶】を見る",
+          "raw": "【極月・無間蝦夷・刑士郎×咲耶】を見る"
+        },
+        {
+          "index": 340,
+          "global_index": 340,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月·無間蝦夷·刑士郎×咲耶】观看",
+          "raw": "【極月·無間蝦夷·刑士郎×咲耶】观看"
+        },
+        {
+          "index": 341,
+          "global_index": 341,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 342,
+          "global_index": 342,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 343,
+          "global_index": 343,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月・無間蝦夷・宗次郎×紫織】を見る",
+          "raw": "【極月・無間蝦夷・宗次郎×紫織】を見る"
+        },
+        {
+          "index": 344,
+          "global_index": 344,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月·無間蝦夷·宗次郎×紫織】观看",
+          "raw": "【極月·無間蝦夷·宗次郎×紫織】观看"
+        },
+        {
+          "index": 345,
+          "global_index": 345,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 346,
+          "global_index": 346,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 347,
+          "global_index": 347,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月・無間蝦夷・夜行×龍水】を見る",
+          "raw": "【極月・無間蝦夷・夜行×龍水】を見る"
+        },
+        {
+          "index": 348,
+          "global_index": 348,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月·無間蝦夷·夜行×龍水】观看",
+          "raw": "【極月·無間蝦夷·夜行×龍水】观看"
+        },
+        {
+          "index": 349,
+          "global_index": 349,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 350,
+          "global_index": 350,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 351,
+          "global_index": 351,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月・無間蝦夷・覇吐×竜胆】を見る",
+          "raw": "【極月・無間蝦夷・覇吐×竜胆】を見る"
+        },
+        {
+          "index": 352,
+          "global_index": 352,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月·無間蝦夷·覇吐×竜胆】观看",
+          "raw": "【極月·無間蝦夷·覇吐×竜胆】观看"
+        },
+        {
+          "index": 353,
+          "global_index": 353,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 354,
+          "global_index": 354,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 355,
+          "global_index": 355,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月・無間蝦夷・合流後】を見る",
+          "raw": "【極月・無間蝦夷・合流後】を見る"
+        },
+        {
+          "index": 356,
+          "global_index": 356,
+          "type": "narration",
+          "speaker": null,
+          "text": "【極月·無間蝦夷·合流後】观看",
+          "raw": "【極月·無間蝦夷·合流後】观看"
+        },
+        {
+          "index": 357,
+          "global_index": 357,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 358,
+          "global_index": 358,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 359,
+          "global_index": 359,
+          "type": "narration",
+          "speaker": null,
+          "text": "【卯月・秀真】を見る",
+          "raw": "【卯月・秀真】を見る"
+        },
+        {
+          "index": 360,
+          "global_index": 360,
+          "type": "narration",
+          "speaker": null,
+          "text": "【卯月·秀真】观看",
+          "raw": "【卯月·秀真】观看"
+        },
+        {
+          "index": 361,
+          "global_index": 361,
+          "type": "narration",
+          "speaker": null,
+          "text": "次の場面へ跳ぶ",
+          "raw": "次の場面へ跳ぶ"
+        },
+        {
+          "index": 362,
+          "global_index": 362,
+          "type": "narration",
+          "speaker": null,
+          "text": "跳到下个场景",
+          "raw": "跳到下个场景"
+        },
+        {
+          "index": 363,
+          "global_index": 363,
+          "type": "narration",
+          "speaker": null,
+          "text": "【神世創生篇】を見る",
+          "raw": "【神世創生篇】を見る"
+        },
+        {
+          "index": 364,
+          "global_index": 364,
+          "type": "narration",
+          "speaker": null,
+          "text": "【神世創生篇】观看",
+          "raw": "【神世創生篇】观看"
+        },
+        {
+          "index": 365,
+          "global_index": 365,
+          "type": "narration",
+          "speaker": null,
+          "text": "【神世創生篇】を見ない",
+          "raw": "【神世創生篇】を見ない"
+        },
+        {
+          "index": 366,
+          "global_index": 366,
+          "type": "narration",
+          "speaker": null,
+          "text": "【神世創生篇】不观看",
+          "raw": "【神世創生篇】不观看"
+        },
+        {
+          "index": 367,
+          "global_index": 367,
+          "type": "narration",
+          "speaker": null,
+          "text": "【威烈繚乱篇】を見る",
+          "raw": "【威烈繚乱篇】を見る"
+        },
+        {
+          "index": 368,
+          "global_index": 368,
+          "type": "narration",
+          "speaker": null,
+          "text": "【威烈繚乱篇】观看",
+          "raw": "【威烈繚乱篇】观看"
+        },
+        {
+          "index": 369,
+          "global_index": 369,
+          "type": "narration",
+          "speaker": null,
+          "text": "【威烈繚乱篇】を見ない",
+          "raw": "【威烈繚乱篇】を見ない"
+        },
+        {
+          "index": 370,
+          "global_index": 370,
+          "type": "narration",
+          "speaker": null,
+          "text": "【威烈繚乱篇】不观看",
+          "raw": "【威烈繚乱篇】不观看"
+        },
+        {
+          "index": 371,
+          "global_index": 371,
+          "type": "narration",
+          "speaker": null,
+          "text": "【咒皇百鬼夜行篇】を見る",
+          "raw": "【咒皇百鬼夜行篇】を見る"
+        },
+        {
+          "index": 372,
+          "global_index": 372,
+          "type": "narration",
+          "speaker": null,
+          "text": "【咒皇百鬼夜行篇】观看",
+          "raw": "【咒皇百鬼夜行篇】观看"
+        },
+        {
+          "index": 373,
+          "global_index": 373,
+          "type": "narration",
+          "speaker": null,
+          "text": "【咒皇百鬼夜行篇】を見ない",
+          "raw": "【咒皇百鬼夜行篇】を見ない"
+        },
+        {
+          "index": 374,
+          "global_index": 374,
+          "type": "narration",
+          "speaker": null,
+          "text": "【咒皇百鬼夜行篇】不观看",
+          "raw": "【咒皇百鬼夜行篇】不观看"
+        },
+        {
+          "index": 375,
+          "global_index": 375,
+          "type": "narration",
+          "speaker": null,
+          "text": "【楽土血染花篇】を見る",
+          "raw": "【楽土血染花篇】を見る"
+        },
+        {
+          "index": 376,
+          "global_index": 376,
+          "type": "narration",
+          "speaker": null,
+          "text": "【楽土血染花篇】观看",
+          "raw": "【楽土血染花篇】观看"
+        },
+        {
+          "index": 377,
+          "global_index": 377,
+          "type": "narration",
+          "speaker": null,
+          "text": "【楽土血染花篇】を見ない",
+          "raw": "【楽土血染花篇】を見ない"
+        },
+        {
+          "index": 378,
+          "global_index": 378,
+          "type": "narration",
+          "speaker": null,
+          "text": "【楽土血染花篇】不观看",
+          "raw": "【楽土血染花篇】不观看"
+        },
+        {
+          "index": 379,
+          "global_index": 379,
+          "type": "narration",
+          "speaker": null,
+          "text": "【神咒神威神楽】を見る",
+          "raw": "【神咒神威神楽】を見る"
+        },
+        {
+          "index": 380,
+          "global_index": 380,
+          "type": "narration",
+          "speaker": null,
+          "text": "【神咒神威神楽】观看",
+          "raw": "【神咒神威神楽】观看"
+        },
+        {
+          "index": 381,
+          "global_index": 381,
+          "type": "narration",
+          "speaker": null,
+          "text": "【神咒神威神楽】を見ない",
+          "raw": "【神咒神威神楽】を見ない"
+        },
+        {
+          "index": 382,
+          "global_index": 382,
+          "type": "narration",
+          "speaker": null,
+          "text": "【神咒神威神楽】不观看",
+          "raw": "【神咒神威神楽】不观看"
+        },
+        {
+          "index": 383,
+          "global_index": 383,
+          "type": "narration",
+          "speaker": null,
+          "text": "【閉幕】を見る",
+          "raw": "【閉幕】を見る"
+        },
+        {
+          "index": 384,
+          "global_index": 384,
+          "type": "narration",
+          "speaker": null,
+          "text": "【閉幕】观看",
+          "raw": "【閉幕】观看"
+        },
+        {
+          "index": 385,
+          "global_index": 385,
+          "type": "narration",
+          "speaker": null,
+          "text": "【閉幕】を見ない",
+          "raw": "【閉幕】を見ない"
+        },
+        {
+          "index": 386,
+          "global_index": 386,
+          "type": "narration",
+          "speaker": null,
+          "text": "【閉幕】不观看",
+          "raw": "【閉幕】不观看"
+        },
+        {
+          "index": 387,
+          "global_index": 387,
+          "type": "narration",
+          "speaker": null,
+          "text": "覇吐・竜胆の邂逅",
+          "raw": "覇吐・竜胆の邂逅"
+        },
+        {
+          "index": 388,
+          "global_index": 388,
+          "type": "narration",
+          "speaker": null,
+          "text": "覇吐·竜胆の邂逅",
+          "raw": "覇吐·竜胆の邂逅"
+        },
+        {
+          "index": 389,
+          "global_index": 389,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎・紫織の邂逅",
+          "raw": "宗次郎・紫織の邂逅"
+        },
+        {
+          "index": 390,
+          "global_index": 390,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎·紫織の邂逅",
+          "raw": "宗次郎·紫織の邂逅"
+        },
+        {
+          "index": 391,
+          "global_index": 391,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎・咲耶の邂逅",
+          "raw": "刑士郎・咲耶の邂逅"
+        },
+        {
+          "index": 392,
+          "global_index": 392,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎·咲耶の邂逅",
+          "raw": "刑士郎·咲耶の邂逅"
+        },
+        {
+          "index": 393,
+          "global_index": 393,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行・龍水の邂逅",
+          "raw": "夜行・龍水の邂逅"
+        },
+        {
+          "index": 394,
+          "global_index": 394,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行·龍水の邂逅",
+          "raw": "夜行·龍水の邂逅"
+        },
+        {
+          "index": 395,
+          "global_index": 395,
+          "type": "narration",
+          "speaker": null,
+          "text": "男の話を知りたい",
+          "raw": "男の話を知りたい"
+        },
+        {
+          "index": 396,
+          "global_index": 396,
+          "type": "narration",
+          "speaker": null,
+          "text": "想知道男人的事",
+          "raw": "想知道男人的事"
+        },
+        {
+          "index": 397,
+          "global_index": 397,
+          "type": "narration",
+          "speaker": null,
+          "text": "女の話を知りたい",
+          "raw": "女の話を知りたい"
+        },
+        {
+          "index": 398,
+          "global_index": 398,
+          "type": "narration",
+          "speaker": null,
+          "text": "想知道女人的事",
+          "raw": "想知道女人的事"
+        },
+        {
+          "index": 399,
+          "global_index": 399,
+          "type": "narration",
+          "speaker": null,
+          "text": "もう結構だ",
+          "raw": "もう結構だ"
+        },
+        {
+          "index": 400,
+          "global_index": 400,
+          "type": "narration",
+          "speaker": null,
+          "text": "もう結構だ",
+          "raw": "もう結構だ"
+        },
+        {
+          "index": 401,
+          "global_index": 401,
+          "type": "narration",
+          "speaker": null,
+          "text": "time",
+          "raw": "time"
+        },
+        {
+          "index": 402,
+          "global_index": 402,
+          "type": "narration",
+          "speaker": null,
+          "text": "time",
+          "raw": "time"
+        },
+        {
+          "index": 403,
+          "global_index": 403,
+          "type": "narration",
+          "speaker": null,
+          "text": "不二――覇吐・竜胆",
+          "raw": "不二――覇吐・竜胆"
+        },
+        {
+          "index": 404,
+          "global_index": 404,
+          "type": "narration",
+          "speaker": null,
+          "text": "不二――覇吐·竜胆",
+          "raw": "不二――覇吐·竜胆"
+        },
+        {
+          "index": 405,
+          "global_index": 405,
+          "type": "narration",
+          "speaker": null,
+          "text": "不二――宗次郎・紫織",
+          "raw": "不二――宗次郎・紫織"
+        },
+        {
+          "index": 406,
+          "global_index": 406,
+          "type": "narration",
+          "speaker": null,
+          "text": "不二――宗次郎·紫織",
+          "raw": "不二――宗次郎·紫織"
+        },
+        {
+          "index": 407,
+          "global_index": 407,
+          "type": "narration",
+          "speaker": null,
+          "text": "鬼無里――刑士郎・咲耶",
+          "raw": "鬼無里――刑士郎・咲耶"
+        },
+        {
+          "index": 408,
+          "global_index": 408,
+          "type": "narration",
+          "speaker": null,
+          "text": "鬼無里――刑士郎·咲耶",
+          "raw": "鬼無里――刑士郎·咲耶"
+        },
+        {
+          "index": 409,
+          "global_index": 409,
+          "type": "narration",
+          "speaker": null,
+          "text": "鬼無里――夜行・龍水",
+          "raw": "鬼無里――夜行・龍水"
+        },
+        {
+          "index": 410,
+          "global_index": 410,
+          "type": "narration",
+          "speaker": null,
+          "text": "鬼無里――夜行·龍水",
+          "raw": "鬼無里――夜行·龍水"
+        },
+        {
+          "index": 411,
+          "global_index": 411,
+          "type": "narration",
+          "speaker": null,
+          "text": "不二――覇吐・竜胆",
+          "raw": "不二――覇吐・竜胆"
+        },
+        {
+          "index": 412,
+          "global_index": 412,
+          "type": "narration",
+          "speaker": null,
+          "text": "不二――覇吐·竜胆",
+          "raw": "不二――覇吐·竜胆"
+        },
+        {
+          "index": 413,
+          "global_index": 413,
+          "type": "narration",
+          "speaker": null,
+          "text": "不二――宗次郎・紫織",
+          "raw": "不二――宗次郎・紫織"
+        },
+        {
+          "index": 414,
+          "global_index": 414,
+          "type": "narration",
+          "speaker": null,
+          "text": "不二――宗次郎·紫織",
+          "raw": "不二――宗次郎·紫織"
+        },
+        {
+          "index": 415,
+          "global_index": 415,
+          "type": "narration",
+          "speaker": null,
+          "text": "鬼無里――刑士郎・咲耶",
+          "raw": "鬼無里――刑士郎・咲耶"
+        },
+        {
+          "index": 416,
+          "global_index": 416,
+          "type": "narration",
+          "speaker": null,
+          "text": "鬼無里――刑士郎·咲耶",
+          "raw": "鬼無里――刑士郎·咲耶"
+        },
+        {
+          "index": 417,
+          "global_index": 417,
+          "type": "narration",
+          "speaker": null,
+          "text": "鬼無里――夜行・龍水",
+          "raw": "鬼無里――夜行・龍水"
+        },
+        {
+          "index": 418,
+          "global_index": 418,
+          "type": "narration",
+          "speaker": null,
+          "text": "鬼無里――夜行·龍水",
+          "raw": "鬼無里――夜行·龍水"
+        },
+        {
+          "index": 419,
+          "global_index": 419,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎たちに付いていく",
+          "raw": "刑士郎たちに付いていく"
+        },
+        {
+          "index": 420,
+          "global_index": 420,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎组跟随",
+          "raw": "刑士郎组跟随"
+        },
+        {
+          "index": 421,
+          "global_index": 421,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎たちに付いていく",
+          "raw": "宗次郎たちに付いていく"
+        },
+        {
+          "index": 422,
+          "global_index": 422,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎组跟随",
+          "raw": "宗次郎组跟随"
+        },
+        {
+          "index": 423,
+          "global_index": 423,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行たちに付いていく",
+          "raw": "夜行たちに付いていく"
+        },
+        {
+          "index": 424,
+          "global_index": 424,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行组跟随",
+          "raw": "夜行组跟随"
+        },
+        {
+          "index": 425,
+          "global_index": 425,
+          "type": "narration",
+          "speaker": null,
+          "text": "女だな",
+          "raw": "女だな"
+        },
+        {
+          "index": 426,
+          "global_index": 426,
+          "type": "narration",
+          "speaker": null,
+          "text": "女",
+          "raw": "女"
+        },
+        {
+          "index": 427,
+          "global_index": 427,
+          "type": "narration",
+          "speaker": null,
+          "text": "男かな",
+          "raw": "男かな"
+        },
+        {
+          "index": 428,
+          "global_index": 428,
+          "type": "narration",
+          "speaker": null,
+          "text": "男",
+          "raw": "男"
+        },
+        {
+          "index": 429,
+          "global_index": 429,
+          "type": "narration",
+          "speaker": null,
+          "text": "女だな",
+          "raw": "女だな"
+        },
+        {
+          "index": 430,
+          "global_index": 430,
+          "type": "narration",
+          "speaker": null,
+          "text": "女",
+          "raw": "女"
+        },
+        {
+          "index": 431,
+          "global_index": 431,
+          "type": "narration",
+          "speaker": null,
+          "text": "男かな",
+          "raw": "男かな"
+        },
+        {
+          "index": 432,
+          "global_index": 432,
+          "type": "narration",
+          "speaker": null,
+          "text": "男",
+          "raw": "男"
+        },
+        {
+          "index": 433,
+          "global_index": 433,
+          "type": "narration",
+          "speaker": null,
+          "text": "いいと思うぜ",
+          "raw": "いいと思うぜ"
+        },
+        {
+          "index": 434,
+          "global_index": 434,
+          "type": "narration",
+          "speaker": null,
+          "text": "觉得很好",
+          "raw": "觉得很好"
+        },
+        {
+          "index": 435,
+          "global_index": 435,
+          "type": "narration",
+          "speaker": null,
+          "text": "いや、ないな",
+          "raw": "いや、ないな"
+        },
+        {
+          "index": 436,
+          "global_index": 436,
+          "type": "narration",
+          "speaker": null,
+          "text": "觉得不好",
+          "raw": "觉得不好"
+        },
+        {
+          "index": 437,
+          "global_index": 437,
+          "type": "narration",
+          "speaker": null,
+          "text": "いいと思うぜ",
+          "raw": "いいと思うぜ"
+        },
+        {
+          "index": 438,
+          "global_index": 438,
+          "type": "narration",
+          "speaker": null,
+          "text": "觉得很好",
+          "raw": "觉得很好"
+        },
+        {
+          "index": 439,
+          "global_index": 439,
+          "type": "narration",
+          "speaker": null,
+          "text": "いや、ないな",
+          "raw": "いや、ないな"
+        },
+        {
+          "index": 440,
+          "global_index": 440,
+          "type": "narration",
+          "speaker": null,
+          "text": "觉得不好",
+          "raw": "觉得不好"
+        },
+        {
+          "index": 441,
+          "global_index": 441,
+          "type": "narration",
+          "speaker": null,
+          "text": "たまには恋愛ものもいいかも",
+          "raw": "たまには恋愛ものもいいかも"
+        },
+        {
+          "index": 442,
+          "global_index": 442,
+          "type": "narration",
+          "speaker": null,
+          "text": "偶尔选次恋爱的",
+          "raw": "偶尔选次恋爱的"
+        },
+        {
+          "index": 443,
+          "global_index": 443,
+          "type": "narration",
+          "speaker": null,
+          "text": "男は黙って春本一択",
+          "raw": "男は黙って春本一択"
+        },
+        {
+          "index": 444,
+          "global_index": 444,
+          "type": "narration",
+          "speaker": null,
+          "text": "是男人就该黄书一択",
+          "raw": "是男人就该黄书一択"
+        },
+        {
+          "index": 445,
+          "global_index": 445,
+          "type": "narration",
+          "speaker": null,
+          "text": "たまには恋愛ものも良いかも",
+          "raw": "たまには恋愛ものも良いかも"
+        },
+        {
+          "index": 446,
+          "global_index": 446,
+          "type": "narration",
+          "speaker": null,
+          "text": "偶尔选次恋爱的",
+          "raw": "偶尔选次恋爱的"
+        },
+        {
+          "index": 447,
+          "global_index": 447,
+          "type": "narration",
+          "speaker": null,
+          "text": "男は黙って春本一択",
+          "raw": "男は黙って春本一択"
+        },
+        {
+          "index": 448,
+          "global_index": 448,
+          "type": "narration",
+          "speaker": null,
+          "text": "是男人就该黄书一択",
+          "raw": "是男人就该黄书一択"
+        },
+        {
+          "index": 449,
+          "global_index": 449,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎たちに付いていく",
+          "raw": "刑士郎たちに付いていく"
+        },
+        {
+          "index": 450,
+          "global_index": 450,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎组跟随",
+          "raw": "刑士郎组跟随"
+        },
+        {
+          "index": 451,
+          "global_index": 451,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎たちに付いていく",
+          "raw": "宗次郎たちに付いていく"
+        },
+        {
+          "index": 452,
+          "global_index": 452,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎组跟随",
+          "raw": "宗次郎组跟随"
+        },
+        {
+          "index": 453,
+          "global_index": 453,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行たちに付いていく",
+          "raw": "夜行たちに付いていく"
+        },
+        {
+          "index": 454,
+          "global_index": 454,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行组跟随",
+          "raw": "夜行组跟随"
+        },
+        {
+          "index": 455,
+          "global_index": 455,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎・咲耶組",
+          "raw": "刑士郎・咲耶組"
+        },
+        {
+          "index": 456,
+          "global_index": 456,
+          "type": "narration",
+          "speaker": null,
+          "text": "刑士郎·咲耶組",
+          "raw": "刑士郎·咲耶組"
+        },
+        {
+          "index": 457,
+          "global_index": 457,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行・龍水組",
+          "raw": "夜行・龍水組"
+        },
+        {
+          "index": 458,
+          "global_index": 458,
+          "type": "narration",
+          "speaker": null,
+          "text": "夜行·龍水組",
+          "raw": "夜行·龍水組"
+        },
+        {
+          "index": 459,
+          "global_index": 459,
+          "type": "narration",
+          "speaker": null,
+          "text": "覇吐・竜胆組",
+          "raw": "覇吐・竜胆組"
+        },
+        {
+          "index": 460,
+          "global_index": 460,
+          "type": "narration",
+          "speaker": null,
+          "text": "覇吐·竜胆組",
+          "raw": "覇吐·竜胆組"
+        },
+        {
+          "index": 461,
+          "global_index": 461,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎・紫織組",
+          "raw": "宗次郎・紫織組"
+        },
+        {
+          "index": 462,
+          "global_index": 462,
+          "type": "narration",
+          "speaker": null,
+          "text": "宗次郎·紫織組",
+          "raw": "宗次郎·紫織組"
+        },
+        {
+          "index": 463,
+          "global_index": 463,
+          "type": "narration",
+          "speaker": null,
+          "text": "r_6_a2",
+          "raw": "r_6_a2"
+        },
+        {
+          "index": 464,
+          "global_index": 464,
+          "type": "narration",
+          "speaker": null,
+          "text": "r_6_a2",
+          "raw": "r_6_a2"
+        },
+        {
+          "index": 465,
+          "global_index": 465,
+          "type": "narration",
+          "speaker": null,
+          "text": "東――覇吐",
+          "raw": "東――覇吐"
+        },
+        {
+          "index": 466,
+          "global_index": 466,
+          "type": "narration",
+          "speaker": null,
+          "text": "東――覇吐",
+          "raw": "東――覇吐"
+        },
+        {
+          "index": 467,
+          "global_index": 467,
+          "type": "narration",
+          "speaker": null,
+          "text": "西――刑士郎",
+          "raw": "西――刑士郎"
+        },
+        {
+          "index": 468,
+          "global_index": 468,
+          "type": "narration",
+          "speaker": null,
+          "text": "西――刑士郎",
+          "raw": "西――刑士郎"
+        },
+        {
+          "index": 469,
+          "global_index": 469,
+          "type": "narration",
+          "speaker": null,
+          "text": "南――夜行",
+          "raw": "南――夜行"
+        },
+        {
+          "index": 470,
+          "global_index": 470,
+          "type": "narration",
+          "speaker": null,
+          "text": "南――夜行",
+          "raw": "南――夜行"
+        },
+        {
+          "index": 471,
+          "global_index": 471,
+          "type": "narration",
+          "speaker": null,
+          "text": "北――宗次郎",
+          "raw": "北――宗次郎"
+        },
+        {
+          "index": 472,
+          "global_index": 472,
+          "type": "narration",
+          "speaker": null,
+          "text": "北――宗次郎",
+          "raw": "北――宗次郎"
+        }
+      ]
+    }
+  ]
+}
